@@ -29,3 +29,6 @@ Personalizar promoções e estratégias de marketing com base no perfil do clien
 Monitorar o status de pagamento dos clientes, reduzindo inadimplências e melhorando o fluxo de caixa.
 
 Tomar decisões embasadas em dados para impulsionar o crescimento do negócio
+
+Conjunto de Dados
+(https://raw.githubusercontent.com/PauloEstrela-Project/PowerBI-VendasxMeta/refs/heads/main/Conjunto%20de%20Dados.png)
