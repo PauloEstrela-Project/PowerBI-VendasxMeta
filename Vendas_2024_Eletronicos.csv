@@ -1,0 +1,1001 @@
+ID_Venda;Data_Venda;Vendedor;Produto;Categoria_Produto;Preco_Unitario;Unidades_Vendidas;Valor_Total_Venda;Meta_Venda;Regiao;Forma_Pagamento
+1;19/07/2024;Luiz;Mouse Gamer;Acessórios;250.0;5;1250.0;975.32;SP;Boleto Bancário
+2;26/01/2024;Jessica;Mouse Gamer;Acessórios;250.0;6;1500.0;1090.65;SP;Cartão de Débito
+3;30/04/2024;Paulo;SSD 1TB;Acessórios;500.0;8;4000.0;3518.47;SP;Cartão de Crédito
+4;23/02/2024;Atila;SSD 1TB;Acessórios;500.0;6;3000.0;3246.4;SP;Boleto Bancário
+5;22/03/2024;Atila;Headset Pro;Acessórios;600.0;9;5400.0;4024.7;SP;Boleto Bancário
+6;09/07/2024;Jessica;Headset Pro;Acessórios;600.0;8;4800.0;3834.27;SP;Cartão de Crédito
+7;30/01/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;5;22500.0;17907.62;SP;Boleto Bancário
+8;07/05/2024;Luiz;Cadeira Gamer;Móveis;1200.0;2;2400.0;1955.5;SP;Cartão de Débito
+9;17/04/2024;Paulo;Teclado Mecânico;Acessórios;450.0;9;4050.0;3822.12;SP;PIX
+10;01/05/2024;Paulo;Smartphone X;Celulares;3200.0;10;32000.0;23074.68;SP;PIX
+11;06/11/2024;Paulo;Cadeira Gamer;Móveis;1200.0;5;6000.0;4962.47;SP;Boleto Bancário
+12;28/08/2024;Luiz;SSD 1TB;Acessórios;500.0;5;2500.0;2924.89;SP;PIX
+13;01/12/2024;Jessica;Teclado Mecânico;Acessórios;450.0;4;1800.0;1505.11;SP;Cartão de Crédito
+14;06/03/2024;Atila;Cadeira Gamer;Móveis;1200.0;7;8400.0;6499.37;SP;Boleto Bancário
+15;08/07/2024;Atila;SSD 1TB;Acessórios;500.0;5;2500.0;2019.18;SP;Cartão de Crédito
+16;27/05/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;3;13500.0;11238.92;SP;Cartão de Débito
+17;03/08/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;7;15400.0;19762.72;SP;Cartão de Débito
+18;22/09/2024;Luiz;Mouse Gamer;Acessórios;250.0;3;750.0;590.05;SP;Cartão de Crédito
+19;23/09/2024;Atila;Smartphone X;Celulares;3200.0;5;16000.0;14045.89;SP;Boleto Bancário
+20;13/10/2024;Atila;SSD 1TB;Acessórios;500.0;6;3000.0;2638.88;SP;Cartão de Débito
+21;07/10/2024;Jessica;Mouse Gamer;Acessórios;250.0;3;750.0;592.21;SP;Cartão de Crédito
+22;04/12/2024;Luiz;Teclado Mecânico;Acessórios;450.0;3;1350.0;1229.65;SP;Boleto Bancário
+23;19/11/2024;Luiz;Mouse Gamer;Acessórios;250.0;2;500.0;428.83;SP;Boleto Bancário
+24;11/01/2024;Atila;Smartphone X;Celulares;3200.0;10;32000.0;26685.95;SP;Cartão de Crédito
+25;02/11/2024;Jessica;Webcam 4K;Eletrônicos;800.0;1;800.0;573.5;SP;PIX
+26;21/11/2024;Atila;SSD 1TB;Acessórios;500.0;5;2500.0;2373.07;SP;PIX
+27;09/04/2024;Luiz;Smartphone X;Celulares;3200.0;8;25600.0;23995.58;SP;Cartão de Débito
+28;29/02/2024;Luiz;Cadeira Gamer;Móveis;1200.0;1;1200.0;1563.63;SP;Cartão de Crédito
+29;19/12/2024;Paulo;SSD 1TB;Acessórios;500.0;5;2500.0;1814.85;SP;Cartão de Crédito
+30;23/04/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;8;36000.0;29677.3;SP;PIX
+31;15/05/2024;Paulo;Cadeira Gamer;Móveis;1200.0;9;10800.0;9542.83;SP;Boleto Bancário
+32;24/01/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;7;15400.0;12494.6;SP;Cartão de Débito
+33;12/02/2024;Luiz;SSD 1TB;Acessórios;500.0;4;2000.0;2297.67;SP;Cartão de Crédito
+34;22/10/2024;Atila;Monitor 4K;Eletrônicos;2200.0;7;15400.0;14237.35;SP;PIX
+35;01/09/2024;Luiz;Smartphone X;Celulares;3200.0;2;6400.0;5603.18;SP;Cartão de Crédito
+36;17/11/2024;Atila;Webcam 4K;Eletrônicos;800.0;1;800.0;632.14;SP;Cartão de Crédito
+37;29/10/2024;Atila;Webcam 4K;Eletrônicos;800.0;10;8000.0;5690.29;SP;PIX
+38;07/03/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;5;11000.0;8902.82;SP;Boleto Bancário
+39;01/10/2024;Paulo;Smartphone X;Celulares;3200.0;6;19200.0;17559.26;SP;Cartão de Crédito
+40;12/04/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;3;6600.0;4775.92;SP;Boleto Bancário
+41;23/05/2024;Jessica;Mouse Gamer;Acessórios;250.0;9;2250.0;2018.14;SP;Cartão de Débito
+42;21/01/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;5;11000.0;9494.45;SP;Boleto Bancário
+43;28/09/2024;Atila;Cadeira Gamer;Móveis;1200.0;6;7200.0;5674.09;SP;Boleto Bancário
+44;13/06/2024;Luiz;Smartphone X;Celulares;3200.0;7;22400.0;25612.37;SP;Cartão de Débito
+45;15/11/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;9;19800.0;17629.38;SP;Cartão de Débito
+46;22/11/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;7;31500.0;27289.12;SP;Boleto Bancário
+47;30/08/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;1;2200.0;2762.18;SP;Cartão de Débito
+48;09/02/2024;Paulo;SSD 1TB;Acessórios;500.0;5;2500.0;3424.5;SP;Boleto Bancário
+49;08/09/2024;Luiz;Headset Pro;Acessórios;600.0;5;3000.0;2499.42;SP;Cartão de Débito
+50;31/01/2024;Atila;Mouse Gamer;Acessórios;250.0;7;1750.0;1660.52;SP;Cartão de Débito
+51;16/08/2024;Luiz;Headset Pro;Acessórios;600.0;2;1200.0;1548.37;SP;PIX
+52;16/02/2024;Paulo;Mouse Gamer;Acessórios;250.0;10;2500.0;2908.11;SP;PIX
+53;19/09/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;1;2200.0;1918.73;SP;Cartão de Débito
+54;18/04/2024;Atila;Smartphone X;Celulares;3200.0;5;16000.0;14526.16;SP;Cartão de Crédito
+55;25/06/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;9;40500.0;45154.0;SP;Cartão de Débito
+56;24/01/2024;Atila;SSD 1TB;Acessórios;500.0;8;4000.0;3007.09;SP;Cartão de Débito
+57;06/10/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;8;36000.0;30953.68;SP;Boleto Bancário
+58;07/02/2024;Paulo;Mouse Gamer;Acessórios;250.0;7;1750.0;2085.19;SP;PIX
+59;22/03/2024;Jessica;Mouse Gamer;Acessórios;250.0;3;750.0;553.33;SP;PIX
+60;03/04/2024;Jessica;SSD 1TB;Acessórios;500.0;4;2000.0;1547.41;SP;Boleto Bancário
+61;30/08/2024;Luiz;Cadeira Gamer;Móveis;1200.0;7;8400.0;11294.25;SP;Cartão de Crédito
+62;13/05/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;6;27000.0;25037.35;SP;Cartão de Crédito
+63;20/03/2024;Atila;Webcam 4K;Eletrônicos;800.0;7;5600.0;4159.15;SP;Boleto Bancário
+64;20/04/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;3;13500.0;9621.29;SP;Cartão de Débito
+65;07/11/2024;Luiz;Teclado Mecânico;Acessórios;450.0;9;4050.0;3681.49;SP;PIX
+66;20/04/2024;Paulo;Cadeira Gamer;Móveis;1200.0;6;7200.0;5110.57;SP;Cartão de Crédito
+67;25/07/2024;Paulo;Cadeira Gamer;Móveis;1200.0;1;1200.0;892.83;SP;Cartão de Débito
+68;18/12/2024;Luiz;SSD 1TB;Acessórios;500.0;5;2500.0;1800.46;SP;PIX
+69;16/07/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;8;36000.0;25307.22;SP;Cartão de Crédito
+70;14/06/2024;Paulo;Cadeira Gamer;Móveis;1200.0;9;10800.0;11677.27;SP;Cartão de Débito
+71;28/12/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;3;13500.0;10809.87;SP;Cartão de Débito
+72;03/08/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;4;8800.0;10895.55;SP;Boleto Bancário
+73;06/04/2024;Jessica;Teclado Mecânico;Acessórios;450.0;7;3150.0;2347.17;SP;Cartão de Crédito
+74;26/06/2024;Atila;Teclado Mecânico;Acessórios;450.0;3;1350.0;1750.73;SP;Cartão de Débito
+75;21/02/2024;Paulo;Teclado Mecânico;Acessórios;450.0;10;4500.0;5381.94;SP;PIX
+76;19/02/2024;Luiz;Cadeira Gamer;Móveis;1200.0;10;12000.0;16403.59;SP;Cartão de Débito
+77;16/08/2024;Atila;Monitor 4K;Eletrônicos;2200.0;1;2200.0;3074.72;SP;Boleto Bancário
+78;02/02/2024;Paulo;Mouse Gamer;Acessórios;250.0;1;250.0;319.44;SP;Cartão de Débito
+79;18/07/2024;Jessica;Smartphone X;Celulares;3200.0;2;6400.0;4747.81;SP;Cartão de Débito
+80;20/09/2024;Luiz;Teclado Mecânico;Acessórios;450.0;1;450.0;316.11;SP;PIX
+81;12/02/2024;Atila;Notebook Pro;Eletrônicos;4500.0;8;36000.0;40174.68;SP;Boleto Bancário
+82;01/06/2024;Atila;Cadeira Gamer;Móveis;1200.0;6;7200.0;9075.95;SP;Cartão de Débito
+83;01/06/2024;Paulo;Headset Pro;Acessórios;600.0;4;2400.0;2991.32;SP;Cartão de Crédito
+84;06/01/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;2;9000.0;6330.68;SP;Cartão de Débito
+85;26/04/2024;Atila;SSD 1TB;Acessórios;500.0;8;4000.0;3741.81;SP;Cartão de Débito
+86;01/06/2024;Luiz;Teclado Mecânico;Acessórios;450.0;3;1350.0;1740.21;SP;Cartão de Débito
+87;29/08/2024;Atila;Teclado Mecânico;Acessórios;450.0;3;1350.0;1470.49;SP;Cartão de Débito
+88;28/07/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;9;19800.0;16672.11;SP;Boleto Bancário
+89;06/09/2024;Jessica;Mouse Gamer;Acessórios;250.0;3;750.0;684.84;SP;Boleto Bancário
+90;26/01/2024;Paulo;Smartphone X;Celulares;3200.0;4;12800.0;11118.59;SP;Cartão de Débito
+91;16/10/2024;Luiz;Smartphone X;Celulares;3200.0;7;22400.0;18180.47;SP;Cartão de Débito
+92;28/09/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;8;17600.0;12590.42;SP;PIX
+93;25/02/2024;Paulo;Smartphone X;Celulares;3200.0;7;22400.0;30893.85;SP;Cartão de Crédito
+94;28/01/2024;Atila;Headset Pro;Acessórios;600.0;8;4800.0;3843.76;SP;PIX
+95;11/04/2024;Atila;Smartphone X;Celulares;3200.0;2;6400.0;4515.17;SP;Boleto Bancário
+96;20/02/2024;Paulo;Webcam 4K;Eletrônicos;800.0;7;5600.0;5906.97;SP;PIX
+97;15/01/2024;Atila;Mouse Gamer;Acessórios;250.0;8;2000.0;1450.92;SP;Cartão de Crédito
+98;22/01/2024;Jessica;Cadeira Gamer;Móveis;1200.0;9;10800.0;8090.07;SP;Cartão de Débito
+99;24/06/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;7;31500.0;39770.42;SP;Cartão de Débito
+100;22/02/2024;Jessica;Smartphone X;Celulares;3200.0;5;16000.0;20108.76;SP;Cartão de Crédito
+101;19/11/2024;Atila;SSD 1TB;Acessórios;500.0;7;3500.0;2661.18;SP;Cartão de Débito
+102;13/08/2024;Atila;Webcam 4K;Eletrônicos;800.0;7;5600.0;7756.63;SP;Cartão de Crédito
+103;02/01/2024;Luiz;Smartphone X;Celulares;3200.0;6;19200.0;15057.23;SP;Boleto Bancário
+104;22/08/2024;Jessica;Cadeira Gamer;Móveis;1200.0;2;2400.0;2987.91;SP;Boleto Bancário
+105;19/03/2024;Paulo;Headset Pro;Acessórios;600.0;10;6000.0;4338.04;SP;Cartão de Crédito
+106;24/10/2024;Luiz;Cadeira Gamer;Móveis;1200.0;4;4800.0;3590.94;SP;Boleto Bancário
+107;12/04/2024;Atila;Smartphone X;Celulares;3200.0;2;6400.0;5794.79;SP;PIX
+108;13/02/2024;Jessica;Teclado Mecânico;Acessórios;450.0;3;1350.0;1809.31;SP;Cartão de Crédito
+109;13/09/2024;Paulo;Teclado Mecânico;Acessórios;450.0;10;4500.0;4134.1;SP;Cartão de Débito
+110;31/05/2024;Atila;SSD 1TB;Acessórios;500.0;9;4500.0;3861.99;SP;Cartão de Débito
+111;12/09/2024;Jessica;Webcam 4K;Eletrônicos;800.0;5;4000.0;3524.04;SP;Cartão de Crédito
+112;26/08/2024;Paulo;Teclado Mecânico;Acessórios;450.0;4;1800.0;1992.34;SP;Cartão de Débito
+113;11/05/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;6;13200.0;12260.69;SP;Cartão de Débito
+114;08/01/2024;Jessica;Headset Pro;Acessórios;600.0;8;4800.0;4344.54;SP;Boleto Bancário
+115;20/10/2024;Atila;Headset Pro;Acessórios;600.0;10;6000.0;5423.47;SP;PIX
+116;02/06/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;7;31500.0;36831.23;SP;Cartão de Crédito
+117;20/12/2024;Jessica;Headset Pro;Acessórios;600.0;3;1800.0;1374.49;SP;PIX
+118;28/12/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;6;27000.0;20385.47;SP;PIX
+119;18/01/2024;Paulo;Webcam 4K;Eletrônicos;800.0;9;7200.0;6231.68;SP;PIX
+120;01/03/2024;Paulo;SSD 1TB;Acessórios;500.0;2;1000.0;747.54;SP;Boleto Bancário
+121;09/07/2024;Atila;Mouse Gamer;Acessórios;250.0;9;2250.0;1758.86;SP;Boleto Bancário
+122;06/03/2024;Paulo;Cadeira Gamer;Móveis;1200.0;5;6000.0;5671.15;SP;PIX
+123;29/05/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;3;6600.0;5588.78;SP;PIX
+124;10/07/2024;Luiz;Mouse Gamer;Acessórios;250.0;10;2500.0;1903.3;SP;Cartão de Crédito
+125;21/08/2024;Luiz;Webcam 4K;Eletrônicos;800.0;9;7200.0;9676.13;SP;Boleto Bancário
+126;02/09/2024;Paulo;Cadeira Gamer;Móveis;1200.0;9;10800.0;8878.25;SP;Cartão de Débito
+127;09/12/2024;Luiz;Teclado Mecânico;Acessórios;450.0;10;4500.0;3663.62;SP;Cartão de Débito
+128;13/11/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;3;6600.0;5543.88;SP;PIX
+129;14/01/2024;Luiz;Teclado Mecânico;Acessórios;450.0;7;3150.0;2534.54;SP;Boleto Bancário
+130;20/03/2024;Atila;Teclado Mecânico;Acessórios;450.0;10;4500.0;3946.29;SP;PIX
+131;06/07/2024;Paulo;Teclado Mecânico;Acessórios;450.0;3;1350.0;1090.2;SP;Boleto Bancário
+132;27/12/2024;Atila;Webcam 4K;Eletrônicos;800.0;4;3200.0;2779.82;SP;Cartão de Crédito
+133;14/05/2024;Paulo;Headset Pro;Acessórios;600.0;5;3000.0;2282.6;SP;Cartão de Débito
+134;21/03/2024;Jessica;Mouse Gamer;Acessórios;250.0;1;250.0;223.19;SP;Cartão de Crédito
+135;07/11/2024;Atila;Teclado Mecânico;Acessórios;450.0;9;4050.0;3170.81;SP;Cartão de Débito
+136;30/08/2024;Jessica;Mouse Gamer;Acessórios;250.0;4;1000.0;1381.75;SP;PIX
+137;02/12/2024;Atila;Teclado Mecânico;Acessórios;450.0;4;1800.0;1588.12;SP;Cartão de Débito
+138;10/04/2024;Atila;Monitor 4K;Eletrônicos;2200.0;3;6600.0;4659.02;SP;Cartão de Crédito
+139;09/02/2024;Atila;Webcam 4K;Eletrônicos;800.0;9;7200.0;8984.37;SP;PIX
+140;06/07/2024;Paulo;SSD 1TB;Acessórios;500.0;2;1000.0;872.99;SP;Boleto Bancário
+141;01/01/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;7;15400.0;13015.29;SP;Cartão de Débito
+142;29/08/2024;Luiz;Cadeira Gamer;Móveis;1200.0;9;10800.0;13820.13;SP;PIX
+143;29/11/2024;Jessica;Smartphone X;Celulares;3200.0;4;12800.0;10013.5;SP;PIX
+144;28/12/2024;Atila;Cadeira Gamer;Móveis;1200.0;5;6000.0;4779.16;SP;PIX
+145;23/06/2024;Jessica;Mouse Gamer;Acessórios;250.0;2;500.0;570.58;SP;Boleto Bancário
+146;17/07/2024;Paulo;Smartphone X;Celulares;3200.0;5;16000.0;12498.43;SP;Cartão de Débito
+147;02/12/2024;Atila;Teclado Mecânico;Acessórios;450.0;7;3150.0;2665.5;SP;PIX
+148;29/08/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;6;13200.0;15920.97;SP;Boleto Bancário
+149;10/11/2024;Paulo;Smartphone X;Celulares;3200.0;8;25600.0;19450.84;SP;Boleto Bancário
+150;15/09/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;2;9000.0;7880.99;SP;PIX
+151;14/02/2024;Atila;Teclado Mecânico;Acessórios;450.0;8;3600.0;4368.65;SP;Boleto Bancário
+152;17/01/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;8;17600.0;16560.76;SP;Cartão de Débito
+153;12/02/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;2;9000.0;11065.55;SP;PIX
+154;14/07/2024;Jessica;Teclado Mecânico;Acessórios;450.0;5;2250.0;2129.86;SP;Cartão de Crédito
+155;20/07/2024;Atila;SSD 1TB;Acessórios;500.0;10;5000.0;4547.68;SP;Boleto Bancário
+156;03/03/2024;Luiz;Headset Pro;Acessórios;600.0;3;1800.0;1626.01;SP;Cartão de Crédito
+157;25/06/2024;Atila;Webcam 4K;Eletrônicos;800.0;7;5600.0;6478.58;SP;Cartão de Débito
+158;26/08/2024;Paulo;Cadeira Gamer;Móveis;1200.0;8;9600.0;12197.91;SP;Boleto Bancário
+159;02/09/2024;Luiz;Webcam 4K;Eletrônicos;800.0;10;8000.0;7518.63;SP;PIX
+160;11/08/2024;Atila;Notebook Pro;Eletrônicos;4500.0;8;36000.0;42317.48;SP;Cartão de Crédito
+161;11/04/2024;Paulo;Webcam 4K;Eletrônicos;800.0;5;4000.0;3313.06;SP;Boleto Bancário
+162;10/12/2024;Paulo;Headset Pro;Acessórios;600.0;4;2400.0;1894.49;SP;Cartão de Débito
+163;28/07/2024;Paulo;Smartphone X;Celulares;3200.0;7;22400.0;17969.16;SP;PIX
+164;20/11/2024;Luiz;Headset Pro;Acessórios;600.0;10;6000.0;4973.55;SP;PIX
+165;03/07/2024;Atila;Cadeira Gamer;Móveis;1200.0;4;4800.0;3876.85;SP;Cartão de Crédito
+166;26/01/2024;Jessica;Webcam 4K;Eletrônicos;800.0;9;7200.0;5608.65;SP;Cartão de Crédito
+167;06/08/2024;Jessica;Webcam 4K;Eletrônicos;800.0;6;4800.0;5737.09;SP;Cartão de Crédito
+168;11/08/2024;Luiz;Webcam 4K;Eletrônicos;800.0;6;4800.0;6460.67;SP;Boleto Bancário
+169;04/10/2024;Atila;Mouse Gamer;Acessórios;250.0;5;1250.0;921.7;SP;Cartão de Crédito
+170;28/05/2024;Jessica;Headset Pro;Acessórios;600.0;1;600.0;505.53;SP;Boleto Bancário
+171;14/09/2024;Jessica;Mouse Gamer;Acessórios;250.0;4;1000.0;795.17;SP;PIX
+172;25/11/2024;Paulo;Cadeira Gamer;Móveis;1200.0;8;9600.0;8889.88;SP;Boleto Bancário
+173;13/08/2024;Jessica;Mouse Gamer;Acessórios;250.0;5;1250.0;1585.26;SP;Cartão de Débito
+174;16/06/2024;Atila;Monitor 4K;Eletrônicos;2200.0;8;17600.0;23496.4;SP;Cartão de Débito
+175;09/04/2024;Luiz;Webcam 4K;Eletrônicos;800.0;9;7200.0;5352.07;SP;Cartão de Crédito
+176;17/12/2024;Atila;SSD 1TB;Acessórios;500.0;3;1500.0;1227.92;SP;Boleto Bancário
+177;26/02/2024;Atila;Notebook Pro;Eletrônicos;4500.0;8;36000.0;38300.89;SP;PIX
+178;13/05/2024;Jessica;Teclado Mecânico;Acessórios;450.0;2;900.0;796.22;SP;PIX
+179;20/06/2024;Jessica;Smartphone X;Celulares;3200.0;3;9600.0;11871.8;SP;Cartão de Crédito
+180;14/02/2024;Jessica;Webcam 4K;Eletrônicos;800.0;8;6400.0;7510.93;SP;Cartão de Débito
+181;08/06/2024;Jessica;Mouse Gamer;Acessórios;250.0;4;1000.0;1278.26;SP;Cartão de Débito
+182;22/11/2024;Paulo;Mouse Gamer;Acessórios;250.0;6;1500.0;1089.97;SP;PIX
+183;30/10/2024;Jessica;SSD 1TB;Acessórios;500.0;8;4000.0;3416.26;SP;PIX
+184;07/02/2024;Paulo;Teclado Mecânico;Acessórios;450.0;10;4500.0;5059.95;SP;PIX
+185;25/04/2024;Atila;Notebook Pro;Eletrônicos;4500.0;2;9000.0;7629.87;SP;Cartão de Débito
+186;28/04/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;5;11000.0;8293.63;SP;Cartão de Débito
+187;22/08/2024;Jessica;Headset Pro;Acessórios;600.0;7;4200.0;5662.47;SP;PIX
+188;08/05/2024;Paulo;SSD 1TB;Acessórios;500.0;7;3500.0;2515.38;SP;Boleto Bancário
+189;29/10/2024;Atila;Headset Pro;Acessórios;600.0;9;5400.0;3886.84;SP;PIX
+190;17/10/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;4;8800.0;7310.05;SP;Boleto Bancário
+191;28/05/2024;Paulo;Smartphone X;Celulares;3200.0;9;28800.0;23114.95;SP;Boleto Bancário
+192;10/06/2024;Atila;Headset Pro;Acessórios;600.0;4;2400.0;3312.75;SP;Boleto Bancário
+193;03/06/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;4;8800.0;10058.5;SP;Cartão de Crédito
+194;28/01/2024;Luiz;Headset Pro;Acessórios;600.0;8;4800.0;3395.16;SP;Cartão de Crédito
+195;07/06/2024;Paulo;Cadeira Gamer;Móveis;1200.0;8;9600.0;12246.29;SP;Cartão de Crédito
+196;11/10/2024;Luiz;Mouse Gamer;Acessórios;250.0;8;2000.0;1681.21;SP;Cartão de Débito
+197;20/02/2024;Paulo;Teclado Mecânico;Acessórios;450.0;6;2700.0;3276.59;SP;Cartão de Crédito
+198;26/07/2024;Jessica;SSD 1TB;Acessórios;500.0;9;4500.0;4095.55;SP;Boleto Bancário
+199;08/11/2024;Atila;Mouse Gamer;Acessórios;250.0;4;1000.0;892.78;SP;Boleto Bancário
+200;25/04/2024;Paulo;Mouse Gamer;Acessórios;250.0;5;1250.0;911.02;SP;Cartão de Crédito
+201;04/04/2024;Luiz;SSD 1TB;Acessórios;500.0;1;500.0;393.82;SP;Cartão de Débito
+202;06/01/2024;Jessica;Mouse Gamer;Acessórios;250.0;8;2000.0;1698.94;SP;Cartão de Débito
+203;22/12/2024;Jessica;SSD 1TB;Acessórios;500.0;2;1000.0;865.37;SP;Cartão de Débito
+204;25/03/2024;Jessica;SSD 1TB;Acessórios;500.0;8;4000.0;3468.1;SP;Boleto Bancário
+205;03/12/2024;Paulo;SSD 1TB;Acessórios;500.0;4;2000.0;1506.05;SP;Cartão de Crédito
+206;03/05/2024;Atila;Webcam 4K;Eletrônicos;800.0;6;4800.0;3951.15;SP;Boleto Bancário
+207;08/12/2024;Luiz;SSD 1TB;Acessórios;500.0;10;5000.0;4536.27;SP;Cartão de Débito
+208;23/10/2024;Jessica;Headset Pro;Acessórios;600.0;6;3600.0;3041.56;SP;Cartão de Débito
+209;04/12/2024;Luiz;Mouse Gamer;Acessórios;250.0;5;1250.0;1096.98;SP;PIX
+210;10/07/2024;Atila;Smartphone X;Celulares;3200.0;1;3200.0;2392.32;SP;PIX
+211;26/05/2024;Paulo;SSD 1TB;Acessórios;500.0;6;3000.0;2724.34;SP;PIX
+212;26/02/2024;Jessica;Smartphone X;Celulares;3200.0;7;22400.0;31045.85;SP;Boleto Bancário
+213;28/12/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;7;31500.0;29150.28;SP;PIX
+214;25/07/2024;Atila;Notebook Pro;Eletrônicos;4500.0;5;22500.0;17444.0;SP;Boleto Bancário
+215;24/07/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;5;22500.0;17201.91;SP;PIX
+216;25/05/2024;Atila;Webcam 4K;Eletrônicos;800.0;9;7200.0;5293.25;SP;Cartão de Débito
+217;05/09/2024;Atila;Headset Pro;Acessórios;600.0;3;1800.0;1617.95;SP;Cartão de Débito
+218;05/04/2024;Atila;Webcam 4K;Eletrônicos;800.0;8;6400.0;5834.77;SP;Cartão de Crédito
+219;22/10/2024;Jessica;SSD 1TB;Acessórios;500.0;10;5000.0;3954.85;SP;Boleto Bancário
+220;24/08/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;6;27000.0;37727.76;SP;Boleto Bancário
+221;13/01/2024;Atila;Notebook Pro;Eletrônicos;4500.0;4;18000.0;17067.41;SP;PIX
+222;26/06/2024;Luiz;Headset Pro;Acessórios;600.0;6;3600.0;4929.74;SP;Boleto Bancário
+223;21/09/2024;Luiz;Webcam 4K;Eletrônicos;800.0;5;4000.0;3071.36;SP;Cartão de Crédito
+224;30/10/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;6;13200.0;12315.55;SP;PIX
+225;13/12/2024;Paulo;Smartphone X;Celulares;3200.0;2;6400.0;4519.86;SP;Cartão de Crédito
+226;23/07/2024;Paulo;Teclado Mecânico;Acessórios;450.0;6;2700.0;2252.3;SP;Cartão de Crédito
+227;21/03/2024;Luiz;Webcam 4K;Eletrônicos;800.0;7;5600.0;4448.89;SP;Cartão de Crédito
+228;02/09/2024;Atila;Webcam 4K;Eletrônicos;800.0;3;2400.0;1994.62;SP;PIX
+229;13/04/2024;Luiz;Cadeira Gamer;Móveis;1200.0;1;1200.0;1132.32;SP;Boleto Bancário
+230;15/04/2024;Paulo;Smartphone X;Celulares;3200.0;1;3200.0;2906.23;SP;Boleto Bancário
+231;09/12/2024;Atila;Cadeira Gamer;Móveis;1200.0;7;8400.0;7875.22;SP;Cartão de Débito
+232;26/01/2024;Atila;Notebook Pro;Eletrônicos;4500.0;9;40500.0;33490.79;SP;Cartão de Débito
+233;29/12/2024;Paulo;Mouse Gamer;Acessórios;250.0;2;500.0;442.06;SP;PIX
+234;14/09/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;2;4400.0;3881.16;SP;Cartão de Débito
+235;16/01/2024;Paulo;SSD 1TB;Acessórios;500.0;9;4500.0;3792.04;SP;Cartão de Crédito
+236;09/08/2024;Atila;Webcam 4K;Eletrônicos;800.0;2;1600.0;2024.06;SP;Boleto Bancário
+237;11/05/2024;Atila;Teclado Mecânico;Acessórios;450.0;3;1350.0;1055.29;SP;Cartão de Débito
+238;12/07/2024;Luiz;Webcam 4K;Eletrônicos;800.0;9;7200.0;5186.72;SP;Boleto Bancário
+239;27/06/2024;Luiz;Cadeira Gamer;Móveis;1200.0;7;8400.0;11699.88;SP;Boleto Bancário
+240;28/09/2024;Atila;Notebook Pro;Eletrônicos;4500.0;1;4500.0;4086.53;SP;Cartão de Crédito
+241;04/01/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;1;4500.0;3224.16;SP;Cartão de Débito
+242;05/07/2024;Paulo;SSD 1TB;Acessórios;500.0;2;1000.0;707.67;SP;PIX
+243;06/04/2024;Atila;Headset Pro;Acessórios;600.0;1;600.0;451.99;SP;Cartão de Crédito
+244;16/06/2024;Jessica;Cadeira Gamer;Móveis;1200.0;8;9600.0;10220.62;SP;Cartão de Débito
+245;19/11/2024;Atila;Mouse Gamer;Acessórios;250.0;10;2500.0;1773.13;SP;Boleto Bancário
+246;03/06/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;1;4500.0;6289.76;SP;PIX
+247;31/05/2024;Luiz;Cadeira Gamer;Móveis;1200.0;9;10800.0;8532.04;SP;PIX
+248;13/08/2024;Atila;Headset Pro;Acessórios;600.0;1;600.0;837.96;SP;Boleto Bancário
+249;15/01/2024;Jessica;Mouse Gamer;Acessórios;250.0;9;2250.0;2001.55;SP;Boleto Bancário
+250;29/06/2024;Atila;Monitor 4K;Eletrônicos;2200.0;8;17600.0;22923.5;SP;Boleto Bancário
+251;13/07/2024;Jessica;Webcam 4K;Eletrônicos;800.0;2;1600.0;1182.21;SP;Cartão de Débito
+252;19/06/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;10;45000.0;56037.68;SP;Cartão de Débito
+253;30/03/2024;Paulo;SSD 1TB;Acessórios;500.0;3;1500.0;1390.32;SP;Boleto Bancário
+254;15/02/2024;Luiz;Webcam 4K;Eletrônicos;800.0;1;800.0;844.56;SP;Cartão de Crédito
+255;07/10/2024;Jessica;SSD 1TB;Acessórios;500.0;1;500.0;383.95;SP;Cartão de Crédito
+256;28/12/2024;Luiz;SSD 1TB;Acessórios;500.0;1;500.0;457.87;SP;Cartão de Crédito
+257;02/09/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;1;4500.0;4131.41;SP;PIX
+258;17/07/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;6;27000.0;20507.41;SP;PIX
+259;01/01/2024;Jessica;Webcam 4K;Eletrônicos;800.0;2;1600.0;1184.67;SP;Cartão de Crédito
+260;13/03/2024;Luiz;Teclado Mecânico;Acessórios;450.0;3;1350.0;1032.6;SP;Boleto Bancário
+261;01/03/2024;Atila;Headset Pro;Acessórios;600.0;10;6000.0;5223.82;SP;PIX
+262;04/05/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;6;27000.0;22491.21;SP;Cartão de Débito
+263;25/11/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;2;4400.0;3527.4;SP;PIX
+264;17/06/2024;Jessica;Headset Pro;Acessórios;600.0;9;5400.0;5675.34;SP;Cartão de Crédito
+265;21/07/2024;Luiz;Cadeira Gamer;Móveis;1200.0;7;8400.0;7455.94;SP;Cartão de Débito
+266;29/01/2024;Jessica;Smartphone X;Celulares;3200.0;6;19200.0;15828.77;SP;Cartão de Crédito
+267;22/02/2024;Paulo;Webcam 4K;Eletrônicos;800.0;6;4800.0;5143.09;SP;Cartão de Débito
+268;17/08/2024;Jessica;Cadeira Gamer;Móveis;1200.0;4;4800.0;5300.44;SP;Boleto Bancário
+269;12/08/2024;Atila;Webcam 4K;Eletrônicos;800.0;10;8000.0;9503.36;SP;Cartão de Débito
+270;23/11/2024;Paulo;Teclado Mecânico;Acessórios;450.0;7;3150.0;2634.97;SP;Cartão de Crédito
+271;10/09/2024;Luiz;Smartphone X;Celulares;3200.0;4;12800.0;10658.93;SP;Boleto Bancário
+272;04/08/2024;Atila;Mouse Gamer;Acessórios;250.0;4;1000.0;1192.96;SP;PIX
+273;21/09/2024;Luiz;SSD 1TB;Acessórios;500.0;8;4000.0;2960.32;SP;PIX
+274;21/07/2024;Jessica;Headset Pro;Acessórios;600.0;3;1800.0;1657.98;SP;PIX
+275;17/04/2024;Atila;Webcam 4K;Eletrônicos;800.0;2;1600.0;1302.95;SP;Cartão de Crédito
+276;01/07/2024;Luiz;Cadeira Gamer;Móveis;1200.0;7;8400.0;6235.5;SP;Cartão de Crédito
+277;19/12/2024;Paulo;Mouse Gamer;Acessórios;250.0;2;500.0;463.86;SP;PIX
+278;03/08/2024;Paulo;Headset Pro;Acessórios;600.0;2;1200.0;1352.56;SP;Cartão de Débito
+279;08/04/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;3;6600.0;5048.14;SP;Cartão de Crédito
+280;27/04/2024;Jessica;Webcam 4K;Eletrônicos;800.0;6;4800.0;4349.79;SP;Boleto Bancário
+281;02/11/2024;Jessica;Cadeira Gamer;Móveis;1200.0;10;12000.0;11143.99;SP;Cartão de Débito
+282;03/08/2024;Paulo;Cadeira Gamer;Móveis;1200.0;5;6000.0;7866.1;SP;PIX
+283;16/03/2024;Atila;Mouse Gamer;Acessórios;250.0;9;2250.0;1861.37;SP;PIX
+284;31/08/2024;Atila;Smartphone X;Celulares;3200.0;10;32000.0;39398.73;SP;Cartão de Crédito
+285;28/05/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;3;13500.0;10070.07;SP;Boleto Bancário
+286;28/10/2024;Paulo;Cadeira Gamer;Móveis;1200.0;10;12000.0;9973.99;SP;Cartão de Crédito
+287;28/11/2024;Luiz;Smartphone X;Celulares;3200.0;8;25600.0;23452.9;SP;PIX
+288;16/04/2024;Paulo;SSD 1TB;Acessórios;500.0;7;3500.0;3149.65;SP;Cartão de Crédito
+289;30/12/2024;Luiz;Webcam 4K;Eletrônicos;800.0;7;5600.0;4233.09;SP;Boleto Bancário
+290;28/04/2024;Paulo;Teclado Mecânico;Acessórios;450.0;8;3600.0;3067.74;SP;PIX
+291;27/07/2024;Atila;Monitor 4K;Eletrônicos;2200.0;4;8800.0;6302.92;SP;Cartão de Crédito
+292;20/10/2024;Paulo;Smartphone X;Celulares;3200.0;6;19200.0;14206.17;SP;PIX
+293;26/06/2024;Luiz;Cadeira Gamer;Móveis;1200.0;2;2400.0;2595.43;SP;Boleto Bancário
+294;27/08/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;6;13200.0;17122.95;SP;PIX
+295;04/12/2024;Atila;Cadeira Gamer;Móveis;1200.0;4;4800.0;3490.78;SP;PIX
+296;13/06/2024;Luiz;SSD 1TB;Acessórios;500.0;9;4500.0;5203.43;SP;PIX
+297;11/10/2024;Atila;SSD 1TB;Acessórios;500.0;7;3500.0;3115.48;SP;PIX
+298;10/10/2024;Jessica;Smartphone X;Celulares;3200.0;1;3200.0;2683.28;SP;Cartão de Débito
+299;02/10/2024;Jessica;SSD 1TB;Acessórios;500.0;6;3000.0;2132.17;SP;Cartão de Débito
+300;24/08/2024;Jessica;Cadeira Gamer;Móveis;1200.0;5;6000.0;6634.85;SP;PIX
+301;03/07/2024;Atila;Monitor 4K;Eletrônicos;2200.0;8;17600.0;13511.57;SP;PIX
+302;17/04/2024;Atila;Cadeira Gamer;Móveis;1200.0;10;12000.0;9609.71;SP;Boleto Bancário
+303;22/05/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;3;6600.0;5537.84;SP;PIX
+304;20/09/2024;Luiz;Smartphone X;Celulares;3200.0;10;32000.0;26800.96;SP;Boleto Bancário
+305;05/12/2024;Atila;Notebook Pro;Eletrônicos;4500.0;1;4500.0;3564.19;SP;Cartão de Crédito
+306;30/10/2024;Atila;Headset Pro;Acessórios;600.0;10;6000.0;4542.57;SP;Boleto Bancário
+307;23/08/2024;Paulo;Mouse Gamer;Acessórios;250.0;4;1000.0;1109.09;SP;Cartão de Débito
+308;28/12/2024;Atila;SSD 1TB;Acessórios;500.0;7;3500.0;3000.6;SP;Cartão de Crédito
+309;17/09/2024;Paulo;Smartphone X;Celulares;3200.0;10;32000.0;22847.32;SP;PIX
+310;04/09/2024;Atila;SSD 1TB;Acessórios;500.0;3;1500.0;1193.85;SP;Cartão de Crédito
+311;14/07/2024;Luiz;Smartphone X;Celulares;3200.0;6;19200.0;16879.61;SP;PIX
+312;24/09/2024;Jessica;Webcam 4K;Eletrônicos;800.0;5;4000.0;3601.69;SP;Boleto Bancário
+313;17/02/2024;Atila;Cadeira Gamer;Móveis;1200.0;4;4800.0;5646.26;SP;Cartão de Débito
+314;25/03/2024;Luiz;Headset Pro;Acessórios;600.0;8;4800.0;4383.99;SP;Cartão de Crédito
+315;26/04/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;7;31500.0;28287.12;SP;Cartão de Débito
+316;23/01/2024;Jessica;Mouse Gamer;Acessórios;250.0;6;1500.0;1362.41;SP;Cartão de Crédito
+317;14/04/2024;Luiz;Mouse Gamer;Acessórios;250.0;2;500.0;375.44;SP;Cartão de Crédito
+318;15/11/2024;Jessica;Smartphone X;Celulares;3200.0;4;12800.0;10231.81;SP;Cartão de Débito
+319;11/07/2024;Luiz;Mouse Gamer;Acessórios;250.0;7;1750.0;1428.84;SP;PIX
+320;30/01/2024;Luiz;Smartphone X;Celulares;3200.0;5;16000.0;14685.75;SP;Cartão de Crédito
+321;24/07/2024;Atila;Headset Pro;Acessórios;600.0;9;5400.0;4933.9;SP;PIX
+322;07/11/2024;Atila;Cadeira Gamer;Móveis;1200.0;10;12000.0;10611.53;SP;Cartão de Crédito
+323;13/09/2024;Atila;Teclado Mecânico;Acessórios;450.0;4;1800.0;1696.47;SP;Cartão de Crédito
+324;09/03/2024;Luiz;Cadeira Gamer;Móveis;1200.0;9;10800.0;9607.87;SP;Cartão de Crédito
+325;12/12/2024;Atila;Notebook Pro;Eletrônicos;4500.0;8;36000.0;30637.53;SP;PIX
+326;09/04/2024;Paulo;Cadeira Gamer;Móveis;1200.0;3;3600.0;3366.66;SP;PIX
+327;24/07/2024;Atila;SSD 1TB;Acessórios;500.0;4;2000.0;1656.79;SP;Cartão de Crédito
+328;30/07/2024;Luiz;Headset Pro;Acessórios;600.0;10;6000.0;4661.63;SP;Boleto Bancário
+329;02/12/2024;Luiz;Headset Pro;Acessórios;600.0;6;3600.0;2777.52;SP;PIX
+330;17/07/2024;Jessica;Teclado Mecânico;Acessórios;450.0;2;900.0;662.96;SP;PIX
+331;26/05/2024;Atila;Cadeira Gamer;Móveis;1200.0;2;2400.0;2064.65;SP;Boleto Bancário
+332;18/04/2024;Atila;Notebook Pro;Eletrônicos;4500.0;2;9000.0;6377.84;SP;PIX
+333;03/05/2024;Paulo;Smartphone X;Celulares;3200.0;2;6400.0;5033.75;SP;Boleto Bancário
+334;07/08/2024;Jessica;Teclado Mecânico;Acessórios;450.0;10;4500.0;6248.61;SP;Boleto Bancário
+335;24/03/2024;Luiz;Smartphone X;Celulares;3200.0;2;6400.0;4514.24;SP;Cartão de Débito
+336;22/04/2024;Atila;Monitor 4K;Eletrônicos;2200.0;10;22000.0;18898.39;SP;Cartão de Crédito
+337;28/05/2024;Atila;Cadeira Gamer;Móveis;1200.0;4;4800.0;3995.1;SP;Cartão de Débito
+338;28/06/2024;Atila;Headset Pro;Acessórios;600.0;3;1800.0;2367.08;SP;Boleto Bancário
+339;21/07/2024;Luiz;Smartphone X;Celulares;3200.0;4;12800.0;10066.19;SP;Cartão de Débito
+340;29/10/2024;Atila;Monitor 4K;Eletrônicos;2200.0;8;17600.0;16215.76;SP;PIX
+341;01/05/2024;Jessica;Teclado Mecânico;Acessórios;450.0;8;3600.0;2851.12;SP;PIX
+342;29/08/2024;Paulo;Smartphone X;Celulares;3200.0;10;32000.0;41857.5;SP;PIX
+343;22/11/2024;Jessica;Smartphone X;Celulares;3200.0;5;16000.0;12288.99;SP;Boleto Bancário
+344;15/10/2024;Paulo;Teclado Mecânico;Acessórios;450.0;8;3600.0;2628.99;SP;Boleto Bancário
+345;08/11/2024;Atila;Headset Pro;Acessórios;600.0;7;4200.0;3148.98;SP;Cartão de Crédito
+346;30/06/2024;Paulo;Smartphone X;Celulares;3200.0;2;6400.0;6730.85;SP;Boleto Bancário
+347;25/10/2024;Atila;Headset Pro;Acessórios;600.0;8;4800.0;4107.05;SP;Cartão de Débito
+348;27/04/2024;Luiz;Webcam 4K;Eletrônicos;800.0;7;5600.0;4983.29;SP;Boleto Bancário
+349;07/06/2024;Luiz;Teclado Mecânico;Acessórios;450.0;10;4500.0;5584.54;SP;Cartão de Crédito
+350;20/06/2024;Paulo;Webcam 4K;Eletrônicos;800.0;7;5600.0;7788.24;SP;Boleto Bancário
+351;21/06/2024;Paulo;Cadeira Gamer;Móveis;1200.0;8;9600.0;11899.6;SP;Cartão de Crédito
+352;19/04/2024;Paulo;Webcam 4K;Eletrônicos;800.0;5;4000.0;3074.6;SP;PIX
+353;03/04/2024;Jessica;Smartphone X;Celulares;3200.0;7;22400.0;19146.96;SP;Cartão de Crédito
+354;19/02/2024;Atila;SSD 1TB;Acessórios;500.0;3;1500.0;1576.63;SP;PIX
+355;08/05/2024;Paulo;Teclado Mecânico;Acessórios;450.0;3;1350.0;1233.06;SP;Cartão de Crédito
+356;01/06/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;1;2200.0;2979.61;SP;Cartão de Crédito
+357;23/11/2024;Luiz;Smartphone X;Celulares;3200.0;8;25600.0;18089.36;SP;Cartão de Crédito
+358;31/08/2024;Atila;Mouse Gamer;Acessórios;250.0;3;750.0;797.32;SP;Cartão de Débito
+359;16/06/2024;Luiz;Headset Pro;Acessórios;600.0;9;5400.0;6024.57;SP;PIX
+360;23/03/2024;Jessica;SSD 1TB;Acessórios;500.0;8;4000.0;3265.84;SP;Cartão de Crédito
+361;09/02/2024;Paulo;Webcam 4K;Eletrônicos;800.0;5;4000.0;4963.46;SP;Cartão de Crédito
+362;08/07/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;8;17600.0;15732.97;SP;PIX
+363;07/02/2024;Jessica;Headset Pro;Acessórios;600.0;8;4800.0;6006.26;SP;Cartão de Crédito
+364;17/03/2024;Luiz;Smartphone X;Celulares;3200.0;10;32000.0;29202.06;SP;Cartão de Débito
+365;21/11/2024;Paulo;Smartphone X;Celulares;3200.0;2;6400.0;6067.94;SP;PIX
+366;19/12/2024;Jessica;Cadeira Gamer;Móveis;1200.0;5;6000.0;4640.9;SP;Cartão de Crédito
+367;29/06/2024;Luiz;Webcam 4K;Eletrônicos;800.0;10;8000.0;9344.35;SP;Cartão de Crédito
+368;02/11/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;8;36000.0;33876.66;SP;Cartão de Crédito
+369;01/02/2024;Atila;Notebook Pro;Eletrônicos;4500.0;4;18000.0;21686.19;SP;Cartão de Crédito
+370;28/07/2024;Atila;Smartphone X;Celulares;3200.0;3;9600.0;8944.14;SP;Cartão de Débito
+371;09/02/2024;Paulo;Mouse Gamer;Acessórios;250.0;6;1500.0;2023.88;SP;PIX
+372;30/01/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;8;17600.0;14163.9;SP;Cartão de Débito
+373;26/01/2024;Luiz;Cadeira Gamer;Móveis;1200.0;6;7200.0;5342.34;SP;Cartão de Débito
+374;09/06/2024;Jessica;Smartphone X;Celulares;3200.0;4;12800.0;16998.23;SP;Boleto Bancário
+375;06/04/2024;Luiz;Teclado Mecânico;Acessórios;450.0;10;4500.0;3320.88;SP;Cartão de Débito
+376;28/05/2024;Paulo;SSD 1TB;Acessórios;500.0;4;2000.0;1875.43;SP;PIX
+377;11/01/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;4;8800.0;6841.68;SP;PIX
+378;26/12/2024;Atila;Notebook Pro;Eletrônicos;4500.0;1;4500.0;3215.36;SP;Cartão de Débito
+379;14/09/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;9;40500.0;29036.91;SP;Cartão de Débito
+380;06/08/2024;Atila;Teclado Mecânico;Acessórios;450.0;8;3600.0;4272.49;SP;PIX
+381;13/09/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;10;22000.0;19923.29;SP;Cartão de Crédito
+382;30/05/2024;Jessica;Headset Pro;Acessórios;600.0;4;2400.0;1746.9;SP;Cartão de Crédito
+383;16/02/2024;Jessica;Smartphone X;Celulares;3200.0;7;22400.0;29888.65;SP;Cartão de Crédito
+384;06/04/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;10;22000.0;18384.76;SP;Boleto Bancário
+385;11/08/2024;Luiz;SSD 1TB;Acessórios;500.0;1;500.0;695.62;SP;Cartão de Débito
+386;07/05/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;9;19800.0;16869.27;SP;PIX
+387;25/10/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;10;22000.0;17821.56;SP;PIX
+388;26/08/2024;Luiz;Webcam 4K;Eletrônicos;800.0;6;4800.0;5734.31;SP;Boleto Bancário
+389;16/04/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;10;22000.0;18714.01;SP;PIX
+390;10/12/2024;Paulo;Webcam 4K;Eletrônicos;800.0;4;3200.0;2775.08;SP;Boleto Bancário
+391;25/03/2024;Paulo;Webcam 4K;Eletrônicos;800.0;10;8000.0;7319.99;SP;Cartão de Débito
+392;28/05/2024;Jessica;Smartphone X;Celulares;3200.0;3;9600.0;8239.13;SP;Cartão de Crédito
+393;17/06/2024;Jessica;Smartphone X;Celulares;3200.0;8;25600.0;33586.63;SP;Cartão de Crédito
+394;17/08/2024;Atila;Monitor 4K;Eletrônicos;2200.0;4;8800.0;9315.04;SP;Cartão de Crédito
+395;05/06/2024;Atila;Webcam 4K;Eletrônicos;800.0;7;5600.0;6823.28;SP;Cartão de Débito
+396;26/07/2024;Paulo;Mouse Gamer;Acessórios;250.0;2;500.0;466.64;SP;Boleto Bancário
+397;26/02/2024;Paulo;Smartphone X;Celulares;3200.0;6;19200.0;20726.59;SP;PIX
+398;17/07/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;5;11000.0;7948.69;SP;PIX
+399;28/10/2024;Jessica;SSD 1TB;Acessórios;500.0;8;4000.0;2948.79;SP;PIX
+400;21/01/2024;Jessica;Teclado Mecânico;Acessórios;450.0;9;4050.0;3447.72;SP;Cartão de Débito
+401;10/11/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;2;9000.0;8061.09;SP;Cartão de Débito
+402;01/05/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;8;36000.0;34199.09;SP;PIX
+403;15/06/2024;Paulo;SSD 1TB;Acessórios;500.0;4;2000.0;2278.01;SP;Cartão de Débito
+404;20/10/2024;Luiz;Headset Pro;Acessórios;600.0;4;2400.0;1766.01;SP;Cartão de Débito
+405;09/11/2024;Luiz;Webcam 4K;Eletrônicos;800.0;2;1600.0;1501.17;SP;Cartão de Crédito
+406;06/04/2024;Paulo;Teclado Mecânico;Acessórios;450.0;6;2700.0;2064.4;SP;Cartão de Débito
+407;27/04/2024;Jessica;SSD 1TB;Acessórios;500.0;5;2500.0;1845.77;SP;Cartão de Crédito
+408;29/07/2024;Atila;Cadeira Gamer;Móveis;1200.0;9;10800.0;7838.52;SP;Cartão de Crédito
+409;11/01/2024;Atila;Smartphone X;Celulares;3200.0;7;22400.0;18991.26;SP;Cartão de Débito
+410;25/06/2024;Paulo;Teclado Mecânico;Acessórios;450.0;10;4500.0;5779.36;SP;Cartão de Crédito
+411;20/05/2024;Luiz;Headset Pro;Acessórios;600.0;4;2400.0;2259.14;SP;Boleto Bancário
+412;26/12/2024;Atila;Mouse Gamer;Acessórios;250.0;7;1750.0;1558.53;SP;Cartão de Débito
+413;10/12/2024;Atila;Mouse Gamer;Acessórios;250.0;9;2250.0;1917.74;SP;PIX
+414;21/12/2024;Jessica;Webcam 4K;Eletrônicos;800.0;10;8000.0;7137.73;SP;PIX
+415;10/04/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;2;9000.0;7372.49;SP;Cartão de Crédito
+416;29/07/2024;Jessica;Webcam 4K;Eletrônicos;800.0;9;7200.0;6783.69;SP;Cartão de Crédito
+417;12/02/2024;Atila;Webcam 4K;Eletrônicos;800.0;3;2400.0;3099.8;SP;PIX
+418;06/06/2024;Paulo;SSD 1TB;Acessórios;500.0;8;4000.0;4781.35;SP;PIX
+419;10/02/2024;Atila;Mouse Gamer;Acessórios;250.0;8;2000.0;2248.0;SP;Boleto Bancário
+420;30/01/2024;Paulo;Headset Pro;Acessórios;600.0;10;6000.0;4880.06;SP;Boleto Bancário
+421;14/07/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;3;13500.0;12152.47;SP;Cartão de Débito
+422;22/06/2024;Luiz;Smartphone X;Celulares;3200.0;10;32000.0;44634.75;SP;Boleto Bancário
+423;01/10/2024;Paulo;Cadeira Gamer;Móveis;1200.0;7;8400.0;7438.7;SP;Boleto Bancário
+424;15/04/2024;Atila;Headset Pro;Acessórios;600.0;6;3600.0;2616.73;SP;Cartão de Débito
+425;16/10/2024;Paulo;Teclado Mecânico;Acessórios;450.0;5;2250.0;1592.16;SP;Cartão de Crédito
+426;28/03/2024;Atila;Headset Pro;Acessórios;600.0;3;1800.0;1376.57;SP;PIX
+427;27/05/2024;Luiz;SSD 1TB;Acessórios;500.0;3;1500.0;1248.75;SP;Boleto Bancário
+428;02/11/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;2;4400.0;3938.5;SP;Cartão de Crédito
+429;09/11/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;3;13500.0;12781.77;SP;PIX
+430;12/04/2024;Luiz;Cadeira Gamer;Móveis;1200.0;8;9600.0;8268.24;SP;PIX
+431;09/10/2024;Paulo;Mouse Gamer;Acessórios;250.0;3;750.0;675.17;SP;PIX
+432;15/02/2024;Jessica;Headset Pro;Acessórios;600.0;9;5400.0;5678.35;SP;Boleto Bancário
+433;12/01/2024;Luiz;SSD 1TB;Acessórios;500.0;2;1000.0;704.02;SP;Cartão de Crédito
+434;18/12/2024;Atila;Webcam 4K;Eletrônicos;800.0;4;3200.0;2805.63;SP;PIX
+435;13/07/2024;Paulo;Mouse Gamer;Acessórios;250.0;6;1500.0;1392.71;SP;Boleto Bancário
+436;03/09/2024;Luiz;Headset Pro;Acessórios;600.0;8;4800.0;4218.96;SP;Cartão de Crédito
+437;04/06/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;5;11000.0;12046.77;SP;Cartão de Crédito
+438;23/01/2024;Atila;Smartphone X;Celulares;3200.0;9;28800.0;24135.02;SP;Boleto Bancário
+439;29/04/2024;Paulo;Smartphone X;Celulares;3200.0;8;25600.0;19453.18;SP;Cartão de Débito
+440;24/09/2024;Paulo;Headset Pro;Acessórios;600.0;1;600.0;540.42;SP;Cartão de Crédito
+441;04/11/2024;Atila;SSD 1TB;Acessórios;500.0;9;4500.0;3920.66;SP;Cartão de Débito
+442;29/11/2024;Luiz;SSD 1TB;Acessórios;500.0;2;1000.0;812.01;SP;Cartão de Crédito
+443;08/09/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;3;13500.0;10748.67;SP;Boleto Bancário
+444;22/04/2024;Jessica;Webcam 4K;Eletrônicos;800.0;8;6400.0;4561.95;SP;PIX
+445;30/11/2024;Paulo;Smartphone X;Celulares;3200.0;10;32000.0;27804.26;SP;Boleto Bancário
+446;16/05/2024;Jessica;Mouse Gamer;Acessórios;250.0;6;1500.0;1333.3;SP;Cartão de Crédito
+447;03/08/2024;Atila;Smartphone X;Celulares;3200.0;7;22400.0;23635.74;SP;PIX
+448;29/03/2024;Paulo;Smartphone X;Celulares;3200.0;10;32000.0;25912.16;SP;PIX
+449;05/06/2024;Jessica;Teclado Mecânico;Acessórios;450.0;8;3600.0;4963.47;SP;PIX
+450;23/01/2024;Jessica;Webcam 4K;Eletrônicos;800.0;8;6400.0;5432.96;SP;Cartão de Débito
+451;08/03/2024;Luiz;SSD 1TB;Acessórios;500.0;4;2000.0;1662.59;SP;Cartão de Débito
+452;03/03/2024;Jessica;Cadeira Gamer;Móveis;1200.0;9;10800.0;8057.57;SP;Cartão de Débito
+453;10/02/2024;Paulo;SSD 1TB;Acessórios;500.0;8;4000.0;4454.49;SP;Boleto Bancário
+454;30/10/2024;Atila;Headset Pro;Acessórios;600.0;4;2400.0;1775.89;SP;Cartão de Crédito
+455;01/11/2024;Luiz;Headset Pro;Acessórios;600.0;7;4200.0;3805.99;SP;Boleto Bancário
+456;26/08/2024;Jessica;SSD 1TB;Acessórios;500.0;3;1500.0;1750.62;SP;Cartão de Crédito
+457;19/11/2024;Luiz;Webcam 4K;Eletrônicos;800.0;7;5600.0;4527.42;SP;Boleto Bancário
+458;05/11/2024;Paulo;Headset Pro;Acessórios;600.0;9;5400.0;5116.97;SP;Cartão de Crédito
+459;10/02/2024;Atila;Notebook Pro;Eletrônicos;4500.0;10;45000.0;62120.79;SP;Cartão de Débito
+460;13/05/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;5;22500.0;16565.47;SP;Cartão de Crédito
+461;02/04/2024;Paulo;Webcam 4K;Eletrônicos;800.0;10;8000.0;5967.09;SP;PIX
+462;02/08/2024;Paulo;Smartphone X;Celulares;3200.0;10;32000.0;40145.35;SP;Cartão de Crédito
+463;20/11/2024;Luiz;Teclado Mecânico;Acessórios;450.0;9;4050.0;3426.53;SP;PIX
+464;25/12/2024;Atila;SSD 1TB;Acessórios;500.0;6;3000.0;2826.08;SP;Cartão de Débito
+465;24/01/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;5;22500.0;16999.84;SP;Boleto Bancário
+466;24/07/2024;Luiz;Headset Pro;Acessórios;600.0;6;3600.0;2631.29;SP;Cartão de Crédito
+467;05/05/2024;Atila;Smartphone X;Celulares;3200.0;7;22400.0;18500.8;SP;Cartão de Débito
+468;02/06/2024;Atila;Monitor 4K;Eletrônicos;2200.0;4;8800.0;10331.9;SP;Cartão de Débito
+469;11/01/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;8;36000.0;30937.31;SP;Boleto Bancário
+470;02/04/2024;Paulo;Cadeira Gamer;Móveis;1200.0;5;6000.0;4729.52;SP;Cartão de Débito
+471;30/09/2024;Paulo;Teclado Mecânico;Acessórios;450.0;7;3150.0;2878.95;SP;Cartão de Crédito
+472;02/06/2024;Paulo;SSD 1TB;Acessórios;500.0;2;1000.0;1121.29;SP;Cartão de Débito
+473;12/08/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;3;13500.0;15561.95;SP;Cartão de Crédito
+474;03/06/2024;Paulo;Cadeira Gamer;Móveis;1200.0;1;1200.0;1323.41;SP;Boleto Bancário
+475;14/06/2024;Paulo;Headset Pro;Acessórios;600.0;10;6000.0;7342.79;SP;Cartão de Crédito
+476;17/06/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;7;31500.0;34735.87;SP;Cartão de Crédito
+477;26/07/2024;Jessica;Teclado Mecânico;Acessórios;450.0;6;2700.0;2560.24;SP;PIX
+478;13/02/2024;Atila;Smartphone X;Celulares;3200.0;6;19200.0;24034.66;SP;Cartão de Crédito
+479;11/08/2024;Paulo;Smartphone X;Celulares;3200.0;5;16000.0;22045.13;SP;Cartão de Crédito
+480;19/03/2024;Luiz;Headset Pro;Acessórios;600.0;6;3600.0;2857.94;SP;Cartão de Débito
+481;07/08/2024;Paulo;SSD 1TB;Acessórios;500.0;7;3500.0;3734.04;SP;Boleto Bancário
+482;06/09/2024;Luiz;Teclado Mecânico;Acessórios;450.0;7;3150.0;2590.12;SP;PIX
+483;06/08/2024;Jessica;SSD 1TB;Acessórios;500.0;2;1000.0;1060.73;SP;Cartão de Débito
+484;27/12/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;5;22500.0;16091.21;SP;PIX
+485;11/07/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;1;2200.0;2006.32;SP;PIX
+486;19/08/2024;Atila;Teclado Mecânico;Acessórios;450.0;3;1350.0;1574.29;SP;Boleto Bancário
+487;07/06/2024;Luiz;Cadeira Gamer;Móveis;1200.0;3;3600.0;4838.47;SP;Boleto Bancário
+488;09/10/2024;Luiz;Mouse Gamer;Acessórios;250.0;2;500.0;464.09;SP;Boleto Bancário
+489;22/07/2024;Atila;Mouse Gamer;Acessórios;250.0;7;1750.0;1381.24;SP;Boleto Bancário
+490;11/03/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;6;27000.0;23271.03;SP;Cartão de Débito
+491;15/04/2024;Paulo;Smartphone X;Celulares;3200.0;5;16000.0;13650.5;SP;Cartão de Crédito
+492;10/07/2024;Luiz;Smartphone X;Celulares;3200.0;4;12800.0;10772.07;SP;PIX
+493;30/08/2024;Paulo;SSD 1TB;Acessórios;500.0;2;1000.0;1061.38;SP;Cartão de Débito
+494;02/07/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;3;13500.0;10041.45;SP;Cartão de Crédito
+495;23/07/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;7;31500.0;29234.76;SP;Cartão de Débito
+496;15/03/2024;Paulo;Teclado Mecânico;Acessórios;450.0;9;4050.0;3401.93;SP;Boleto Bancário
+497;14/05/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;10;22000.0;19335.35;SP;Cartão de Crédito
+498;31/08/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;4;18000.0;24586.92;SP;Cartão de Crédito
+499;18/12/2024;Luiz;Headset Pro;Acessórios;600.0;8;4800.0;4170.53;SP;PIX
+500;21/12/2024;Atila;Notebook Pro;Eletrônicos;4500.0;6;27000.0;24486.87;SP;Cartão de Crédito
+501;08/05/2024;Atila;Teclado Mecânico;Acessórios;450.0;9;4050.0;3045.11;SP;Boleto Bancário
+502;21/10/2024;Atila;Teclado Mecânico;Acessórios;450.0;3;1350.0;1201.58;SP;PIX
+503;15/11/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;3;13500.0;11266.12;SP;PIX
+504;20/08/2024;Luiz;SSD 1TB;Acessórios;500.0;9;4500.0;6297.36;SP;Boleto Bancário
+505;17/04/2024;Jessica;Mouse Gamer;Acessórios;250.0;8;2000.0;1559.63;SP;PIX
+506;14/05/2024;Paulo;Teclado Mecânico;Acessórios;450.0;4;1800.0;1499.46;SP;Boleto Bancário
+507;03/09/2024;Luiz;Headset Pro;Acessórios;600.0;5;3000.0;2750.35;SP;PIX
+508;15/02/2024;Jessica;Webcam 4K;Eletrônicos;800.0;7;5600.0;6871.09;SP;Cartão de Débito
+509;02/02/2024;Jessica;Cadeira Gamer;Móveis;1200.0;3;3600.0;4163.64;SP;Cartão de Crédito
+510;30/10/2024;Luiz;Headset Pro;Acessórios;600.0;2;1200.0;904.07;SP;Cartão de Crédito
+511;27/05/2024;Luiz;Headset Pro;Acessórios;600.0;1;600.0;455.8;SP;PIX
+512;25/07/2024;Paulo;Webcam 4K;Eletrônicos;800.0;10;8000.0;6550.94;SP;Boleto Bancário
+513;23/12/2024;Atila;Teclado Mecânico;Acessórios;450.0;1;450.0;395.86;SP;PIX
+514;22/10/2024;Atila;Teclado Mecânico;Acessórios;450.0;4;1800.0;1486.2;SP;PIX
+515;30/12/2024;Luiz;SSD 1TB;Acessórios;500.0;8;4000.0;3744.34;SP;PIX
+516;20/01/2024;Atila;Webcam 4K;Eletrônicos;800.0;9;7200.0;5393.81;SP;PIX
+517;20/10/2024;Atila;Headset Pro;Acessórios;600.0;8;4800.0;3962.62;SP;PIX
+518;30/10/2024;Paulo;SSD 1TB;Acessórios;500.0;1;500.0;396.84;SP;Cartão de Débito
+519;02/02/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;2;9000.0;12070.51;SP;PIX
+520;29/07/2024;Atila;Smartphone X;Celulares;3200.0;10;32000.0;25763.47;SP;PIX
+521;25/10/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;5;11000.0;9642.3;SP;PIX
+522;07/11/2024;Luiz;Cadeira Gamer;Móveis;1200.0;2;2400.0;2169.94;SP;Cartão de Crédito
+523;13/01/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;6;27000.0;23352.82;SP;Boleto Bancário
+524;08/10/2024;Paulo;Smartphone X;Celulares;3200.0;6;19200.0;14259.68;SP;Cartão de Débito
+525;29/07/2024;Luiz;Smartphone X;Celulares;3200.0;4;12800.0;10965.3;SP;Cartão de Crédito
+526;04/09/2024;Paulo;Webcam 4K;Eletrônicos;800.0;5;4000.0;3760.53;SP;Cartão de Crédito
+527;08/12/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;2;9000.0;6399.15;SP;Boleto Bancário
+528;31/05/2024;Luiz;Teclado Mecânico;Acessórios;450.0;9;4050.0;3842.76;SP;Boleto Bancário
+529;30/06/2024;Luiz;Smartphone X;Celulares;3200.0;2;6400.0;8005.25;SP;Cartão de Débito
+530;23/09/2024;Atila;SSD 1TB;Acessórios;500.0;9;4500.0;3669.93;SP;Boleto Bancário
+531;20/06/2024;Atila;Mouse Gamer;Acessórios;250.0;9;2250.0;2859.29;SP;Boleto Bancário
+532;06/04/2024;Atila;Smartphone X;Celulares;3200.0;6;19200.0;15342.45;SP;Cartão de Débito
+533;20/10/2024;Paulo;SSD 1TB;Acessórios;500.0;10;5000.0;3841.51;SP;Cartão de Crédito
+534;22/12/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;7;31500.0;28344.46;SP;Boleto Bancário
+535;17/06/2024;Luiz;Headset Pro;Acessórios;600.0;4;2400.0;3355.03;SP;Cartão de Crédito
+536;15/06/2024;Jessica;Cadeira Gamer;Móveis;1200.0;10;12000.0;12974.83;SP;Cartão de Débito
+537;06/08/2024;Atila;Teclado Mecânico;Acessórios;450.0;2;900.0;1041.79;SP;Cartão de Crédito
+538;21/04/2024;Jessica;Headset Pro;Acessórios;600.0;3;1800.0;1466.21;SP;Cartão de Débito
+539;20/09/2024;Paulo;Cadeira Gamer;Móveis;1200.0;10;12000.0;9716.02;SP;PIX
+540;16/06/2024;Paulo;SSD 1TB;Acessórios;500.0;3;1500.0;2027.94;SP;Cartão de Débito
+541;31/03/2024;Luiz;Webcam 4K;Eletrônicos;800.0;6;4800.0;3677.76;SP;Cartão de Débito
+542;01/01/2024;Luiz;Teclado Mecânico;Acessórios;450.0;7;3150.0;2764.02;SP;Cartão de Débito
+543;09/07/2024;Luiz;Webcam 4K;Eletrônicos;800.0;10;8000.0;6115.92;SP;Cartão de Débito
+544;18/08/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;6;27000.0;35598.75;SP;Cartão de Crédito
+545;18/05/2024;Paulo;Teclado Mecânico;Acessórios;450.0;5;2250.0;1811.88;SP;Boleto Bancário
+546;07/08/2024;Luiz;SSD 1TB;Acessórios;500.0;3;1500.0;1662.01;SP;PIX
+547;12/05/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;3;6600.0;6012.42;SP;Cartão de Débito
+548;04/11/2024;Paulo;Headset Pro;Acessórios;600.0;6;3600.0;2873.05;SP;Cartão de Crédito
+549;17/12/2024;Atila;Notebook Pro;Eletrônicos;4500.0;6;27000.0;25532.99;SP;Cartão de Crédito
+550;04/11/2024;Jessica;SSD 1TB;Acessórios;500.0;4;2000.0;1899.31;SP;PIX
+551;17/04/2024;Jessica;Cadeira Gamer;Móveis;1200.0;5;6000.0;5264.63;SP;Boleto Bancário
+552;20/04/2024;Jessica;Webcam 4K;Eletrônicos;800.0;5;4000.0;2985.57;SP;PIX
+553;20/04/2024;Luiz;SSD 1TB;Acessórios;500.0;1;500.0;474.66;SP;Cartão de Crédito
+554;28/07/2024;Jessica;Teclado Mecânico;Acessórios;450.0;10;4500.0;4247.43;SP;Cartão de Crédito
+555;15/09/2024;Luiz;Mouse Gamer;Acessórios;250.0;8;2000.0;1431.32;SP;Cartão de Crédito
+556;06/11/2024;Jessica;Cadeira Gamer;Móveis;1200.0;1;1200.0;844.98;SP;Cartão de Crédito
+557;13/12/2024;Paulo;Cadeira Gamer;Móveis;1200.0;1;1200.0;1097.14;SP;Cartão de Débito
+558;31/01/2024;Jessica;Cadeira Gamer;Móveis;1200.0;10;12000.0;11179.88;SP;Cartão de Débito
+559;20/02/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;5;22500.0;30479.53;SP;PIX
+560;25/04/2024;Luiz;Webcam 4K;Eletrônicos;800.0;6;4800.0;3587.75;SP;Cartão de Crédito
+561;15/07/2024;Jessica;Cadeira Gamer;Móveis;1200.0;7;8400.0;7171.37;SP;Boleto Bancário
+562;15/09/2024;Luiz;Mouse Gamer;Acessórios;250.0;2;500.0;468.37;SP;PIX
+563;03/02/2024;Atila;SSD 1TB;Acessórios;500.0;10;5000.0;6800.99;SP;Boleto Bancário
+564;02/03/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;10;22000.0;17470.66;SP;Boleto Bancário
+565;11/12/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;10;22000.0;18763.04;SP;Cartão de Crédito
+566;22/02/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;8;17600.0;19155.21;SP;PIX
+567;22/10/2024;Atila;Teclado Mecânico;Acessórios;450.0;5;2250.0;1817.45;SP;Cartão de Crédito
+568;21/11/2024;Jessica;SSD 1TB;Acessórios;500.0;4;2000.0;1438.35;SP;PIX
+569;23/02/2024;Jessica;Smartphone X;Celulares;3200.0;5;16000.0;20493.95;SP;Boleto Bancário
+570;16/04/2024;Paulo;Mouse Gamer;Acessórios;250.0;5;1250.0;981.53;SP;Boleto Bancário
+571;22/04/2024;Paulo;Cadeira Gamer;Móveis;1200.0;8;9600.0;8833.51;SP;Cartão de Crédito
+572;01/10/2024;Luiz;Mouse Gamer;Acessórios;250.0;1;250.0;184.93;SP;Cartão de Débito
+573;12/01/2024;Jessica;Headset Pro;Acessórios;600.0;2;1200.0;1068.77;SP;Boleto Bancário
+574;28/10/2024;Jessica;Mouse Gamer;Acessórios;250.0;5;1250.0;900.46;SP;Boleto Bancário
+575;12/08/2024;Atila;Monitor 4K;Eletrônicos;2200.0;6;13200.0;16452.78;SP;Boleto Bancário
+576;01/12/2024;Atila;Mouse Gamer;Acessórios;250.0;1;250.0;221.84;SP;PIX
+577;21/01/2024;Jessica;Mouse Gamer;Acessórios;250.0;2;500.0;351.89;SP;PIX
+578;09/01/2024;Luiz;Webcam 4K;Eletrônicos;800.0;6;4800.0;3577.88;SP;Boleto Bancário
+579;19/12/2024;Jessica;Headset Pro;Acessórios;600.0;7;4200.0;3465.08;SP;PIX
+580;18/05/2024;Jessica;Teclado Mecânico;Acessórios;450.0;5;2250.0;2053.41;SP;PIX
+581;31/10/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;3;6600.0;6099.1;SP;Boleto Bancário
+582;01/06/2024;Jessica;Cadeira Gamer;Móveis;1200.0;2;2400.0;2656.52;SP;Cartão de Crédito
+583;22/06/2024;Atila;SSD 1TB;Acessórios;500.0;6;3000.0;3314.45;SP;Cartão de Débito
+584;19/09/2024;Atila;Webcam 4K;Eletrônicos;800.0;6;4800.0;3412.73;SP;PIX
+585;10/08/2024;Jessica;Teclado Mecânico;Acessórios;450.0;5;2250.0;2681.33;SP;Boleto Bancário
+586;22/08/2024;Luiz;Mouse Gamer;Acessórios;250.0;4;1000.0;1165.63;SP;Cartão de Crédito
+587;11/04/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;9;19800.0;15395.07;SP;PIX
+588;15/09/2024;Atila;Monitor 4K;Eletrônicos;2200.0;3;6600.0;5088.59;SP;PIX
+589;20/09/2024;Paulo;SSD 1TB;Acessórios;500.0;10;5000.0;3690.62;SP;Cartão de Crédito
+590;14/11/2024;Jessica;SSD 1TB;Acessórios;500.0;3;1500.0;1347.78;SP;PIX
+591;06/09/2024;Atila;Monitor 4K;Eletrônicos;2200.0;6;13200.0;9802.06;SP;PIX
+592;06/01/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;8;17600.0;16070.17;SP;Boleto Bancário
+593;01/06/2024;Atila;SSD 1TB;Acessórios;500.0;7;3500.0;4225.98;SP;Boleto Bancário
+594;11/12/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;2;9000.0;7920.72;SP;Cartão de Crédito
+595;14/04/2024;Paulo;Headset Pro;Acessórios;600.0;5;3000.0;2483.75;SP;Cartão de Débito
+596;22/05/2024;Atila;Mouse Gamer;Acessórios;250.0;6;1500.0;1276.55;SP;Cartão de Débito
+597;16/04/2024;Luiz;SSD 1TB;Acessórios;500.0;1;500.0;446.78;SP;Cartão de Crédito
+598;25/03/2024;Atila;SSD 1TB;Acessórios;500.0;5;2500.0;2229.51;SP;PIX
+599;19/06/2024;Jessica;Mouse Gamer;Acessórios;250.0;1;250.0;341.87;SP;PIX
+600;09/11/2024;Jessica;Smartphone X;Celulares;3200.0;8;25600.0;21364.69;RJ;Boleto Bancário
+601;20/08/2024;Atila;Smartphone X;Celulares;3200.0;4;12800.0;15152.51;RJ;Cartão de Débito
+602;26/01/2024;Jessica;Teclado Mecânico;Acessórios;450.0;9;4050.0;3495.39;RJ;Cartão de Débito
+603;18/12/2024;Jessica;SSD 1TB;Acessórios;500.0;4;2000.0;1662.48;RJ;Boleto Bancário
+604;18/06/2024;Atila;Mouse Gamer;Acessórios;250.0;10;2500.0;2839.74;RJ;Cartão de Débito
+605;28/08/2024;Jessica;Smartphone X;Celulares;3200.0;5;16000.0;17443.04;RJ;Cartão de Débito
+606;19/06/2024;Luiz;Mouse Gamer;Acessórios;250.0;10;2500.0;3390.15;RJ;PIX
+607;29/04/2024;Jessica;SSD 1TB;Acessórios;500.0;3;1500.0;1342.98;RJ;Cartão de Crédito
+608;25/02/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;3;13500.0;14227.76;RJ;PIX
+609;28/08/2024;Atila;Webcam 4K;Eletrônicos;800.0;1;800.0;907.95;RJ;Cartão de Crédito
+610;07/08/2024;Atila;SSD 1TB;Acessórios;500.0;10;5000.0;5680.28;RJ;Boleto Bancário
+611;25/06/2024;Jessica;Webcam 4K;Eletrônicos;800.0;2;1600.0;1754.32;RJ;Cartão de Débito
+612;06/11/2024;Luiz;Smartphone X;Celulares;3200.0;4;12800.0;11373.94;RJ;PIX
+613;11/03/2024;Luiz;Webcam 4K;Eletrônicos;800.0;1;800.0;638.52;RJ;PIX
+614;03/08/2024;Atila;Notebook Pro;Eletrônicos;4500.0;5;22500.0;24987.41;RJ;PIX
+615;28/02/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;6;13200.0;15503.37;RJ;Cartão de Crédito
+616;04/01/2024;Jessica;SSD 1TB;Acessórios;500.0;9;4500.0;3607.99;RJ;Boleto Bancário
+617;13/05/2024;Luiz;Teclado Mecânico;Acessórios;450.0;3;1350.0;1026.83;RJ;Boleto Bancário
+618;12/04/2024;Atila;Cadeira Gamer;Móveis;1200.0;5;6000.0;5202.84;RJ;Cartão de Débito
+619;30/09/2024;Luiz;Cadeira Gamer;Móveis;1200.0;5;6000.0;4699.91;RJ;Cartão de Crédito
+620;21/10/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;10;22000.0;19818.73;RJ;Cartão de Débito
+621;08/12/2024;Atila;Webcam 4K;Eletrônicos;800.0;9;7200.0;6244.42;RJ;PIX
+622;18/08/2024;Luiz;Webcam 4K;Eletrônicos;800.0;4;3200.0;3544.61;RJ;Cartão de Débito
+623;05/07/2024;Jessica;SSD 1TB;Acessórios;500.0;10;5000.0;4087.55;RJ;Boleto Bancário
+624;16/03/2024;Atila;Teclado Mecânico;Acessórios;450.0;8;3600.0;2598.59;RJ;PIX
+625;05/10/2024;Paulo;Teclado Mecânico;Acessórios;450.0;10;4500.0;3253.29;RJ;Boleto Bancário
+626;28/10/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;7;15400.0;11547.34;RJ;Boleto Bancário
+627;24/07/2024;Jessica;Headset Pro;Acessórios;600.0;5;3000.0;2465.49;RJ;Boleto Bancário
+628;02/07/2024;Paulo;Mouse Gamer;Acessórios;250.0;7;1750.0;1259.97;RJ;Cartão de Crédito
+629;15/07/2024;Luiz;SSD 1TB;Acessórios;500.0;1;500.0;403.91;RJ;Cartão de Débito
+630;26/05/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;5;11000.0;7943.47;RJ;Cartão de Crédito
+631;02/02/2024;Atila;SSD 1TB;Acessórios;500.0;1;500.0;566.17;RJ;Boleto Bancário
+632;19/06/2024;Paulo;Smartphone X;Celulares;3200.0;4;12800.0;15993.58;RJ;Cartão de Débito
+633;06/11/2024;Atila;Smartphone X;Celulares;3200.0;10;32000.0;27494.81;RJ;Cartão de Crédito
+634;26/04/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;5;22500.0;19829.55;RJ;PIX
+635;25/11/2024;Atila;Notebook Pro;Eletrônicos;4500.0;6;27000.0;24226.64;RJ;PIX
+636;29/03/2024;Luiz;Webcam 4K;Eletrônicos;800.0;7;5600.0;4333.75;RJ;PIX
+637;04/02/2024;Luiz;Webcam 4K;Eletrônicos;800.0;3;2400.0;3211.34;RJ;Cartão de Crédito
+638;17/04/2024;Jessica;Teclado Mecânico;Acessórios;450.0;5;2250.0;1929.06;RJ;Boleto Bancário
+639;21/04/2024;Jessica;SSD 1TB;Acessórios;500.0;9;4500.0;3344.99;RJ;Boleto Bancário
+640;03/06/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;1;4500.0;5549.96;RJ;Boleto Bancário
+641;25/12/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;9;40500.0;30322.17;RJ;Boleto Bancário
+642;27/02/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;8;17600.0;22657.12;RJ;Cartão de Débito
+643;03/09/2024;Atila;Webcam 4K;Eletrônicos;800.0;5;4000.0;2955.43;RJ;Cartão de Débito
+644;15/02/2024;Luiz;Cadeira Gamer;Móveis;1200.0;3;3600.0;3819.12;RJ;Cartão de Débito
+645;25/05/2024;Atila;Webcam 4K;Eletrônicos;800.0;8;6400.0;5519.46;RJ;Cartão de Débito
+646;04/11/2024;Paulo;Webcam 4K;Eletrônicos;800.0;3;2400.0;2043.43;RJ;Cartão de Crédito
+647;10/10/2024;Jessica;Headset Pro;Acessórios;600.0;1;600.0;523.46;RJ;Cartão de Crédito
+648;03/09/2024;Luiz;SSD 1TB;Acessórios;500.0;3;1500.0;1335.35;RJ;Cartão de Crédito
+649;16/06/2024;Paulo;Smartphone X;Celulares;3200.0;4;12800.0;16272.61;RJ;PIX
+650;06/06/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;3;6600.0;9230.7;RJ;Cartão de Crédito
+651;29/09/2024;Paulo;Headset Pro;Acessórios;600.0;8;4800.0;3492.2;RJ;Boleto Bancário
+652;20/04/2024;Atila;Mouse Gamer;Acessórios;250.0;10;2500.0;2289.5;RJ;Cartão de Débito
+653;26/03/2024;Jessica;Webcam 4K;Eletrônicos;800.0;10;8000.0;7359.21;RJ;PIX
+654;19/04/2024;Atila;Notebook Pro;Eletrônicos;4500.0;5;22500.0;19331.09;RJ;PIX
+655;01/03/2024;Luiz;Mouse Gamer;Acessórios;250.0;8;2000.0;1531.82;RJ;Cartão de Débito
+656;29/08/2024;Atila;Webcam 4K;Eletrônicos;800.0;4;3200.0;4120.51;RJ;Boleto Bancário
+657;10/06/2024;Luiz;Mouse Gamer;Acessórios;250.0;3;750.0;937.31;RJ;PIX
+658;23/12/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;5;22500.0;18230.83;RJ;Cartão de Débito
+659;20/11/2024;Jessica;Teclado Mecânico;Acessórios;450.0;2;900.0;682.13;RJ;Boleto Bancário
+660;08/09/2024;Luiz;Webcam 4K;Eletrônicos;800.0;5;4000.0;3031.65;RJ;Cartão de Crédito
+661;31/03/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;1;2200.0;1862.48;RJ;PIX
+662;24/02/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;7;31500.0;43730.98;RJ;Cartão de Débito
+663;01/05/2024;Paulo;Webcam 4K;Eletrônicos;800.0;1;800.0;712.6;RJ;PIX
+664;10/01/2024;Atila;Smartphone X;Celulares;3200.0;1;3200.0;2560.04;RJ;Boleto Bancário
+665;07/01/2024;Jessica;Webcam 4K;Eletrônicos;800.0;2;1600.0;1492.32;RJ;Cartão de Débito
+666;13/06/2024;Luiz;Webcam 4K;Eletrônicos;800.0;6;4800.0;5786.88;RJ;Cartão de Crédito
+667;20/07/2024;Atila;Smartphone X;Celulares;3200.0;9;28800.0;26195.42;RJ;Cartão de Crédito
+668;12/12/2024;Luiz;Webcam 4K;Eletrônicos;800.0;10;8000.0;7149.87;RJ;Boleto Bancário
+669;20/05/2024;Luiz;Webcam 4K;Eletrônicos;800.0;8;6400.0;5286.29;RJ;Boleto Bancário
+670;04/06/2024;Atila;Notebook Pro;Eletrônicos;4500.0;8;36000.0;43615.52;RJ;Boleto Bancário
+671;27/01/2024;Atila;SSD 1TB;Acessórios;500.0;7;3500.0;2535.23;RJ;PIX
+672;10/12/2024;Paulo;Headset Pro;Acessórios;600.0;7;4200.0;3153.62;RJ;Cartão de Débito
+673;19/11/2024;Jessica;Cadeira Gamer;Móveis;1200.0;3;3600.0;2948.07;RJ;Cartão de Crédito
+674;02/12/2024;Paulo;SSD 1TB;Acessórios;500.0;5;2500.0;1759.36;RJ;PIX
+675;11/01/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;1;4500.0;3890.26;RJ;PIX
+676;23/12/2024;Jessica;Smartphone X;Celulares;3200.0;5;16000.0;11334.01;RJ;Cartão de Crédito
+677;12/02/2024;Atila;Monitor 4K;Eletrônicos;2200.0;2;4400.0;5827.33;RJ;Cartão de Débito
+678;07/02/2024;Jessica;Smartphone X;Celulares;3200.0;7;22400.0;28805.01;RJ;Cartão de Crédito
+679;03/06/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;10;22000.0;28182.2;RJ;PIX
+680;27/09/2024;Paulo;Cadeira Gamer;Móveis;1200.0;4;4800.0;4362.05;RJ;Cartão de Crédito
+681;12/08/2024;Atila;Teclado Mecânico;Acessórios;450.0;2;900.0;1223.74;RJ;Boleto Bancário
+682;22/07/2024;Atila;SSD 1TB;Acessórios;500.0;7;3500.0;2604.72;RJ;PIX
+683;15/08/2024;Jessica;SSD 1TB;Acessórios;500.0;8;4000.0;4546.53;RJ;Cartão de Débito
+684;03/02/2024;Atila;Smartphone X;Celulares;3200.0;4;12800.0;14145.69;RJ;Cartão de Débito
+685;12/08/2024;Jessica;Cadeira Gamer;Móveis;1200.0;5;6000.0;6473.32;RJ;Cartão de Débito
+686;13/03/2024;Jessica;Teclado Mecânico;Acessórios;450.0;7;3150.0;2322.36;RJ;Cartão de Crédito
+687;05/06/2024;Atila;Mouse Gamer;Acessórios;250.0;3;750.0;976.2;RJ;Cartão de Crédito
+688;10/12/2024;Atila;Mouse Gamer;Acessórios;250.0;10;2500.0;2213.21;RJ;Cartão de Débito
+689;06/07/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;9;40500.0;36076.99;RJ;Cartão de Débito
+690;29/05/2024;Atila;Mouse Gamer;Acessórios;250.0;5;1250.0;892.78;RJ;PIX
+691;28/10/2024;Jessica;Cadeira Gamer;Móveis;1200.0;9;10800.0;7814.54;RJ;Cartão de Crédito
+692;12/03/2024;Atila;Smartphone X;Celulares;3200.0;6;19200.0;17019.32;RJ;Cartão de Crédito
+693;07/10/2024;Jessica;Webcam 4K;Eletrônicos;800.0;9;7200.0;5192.7;RJ;Cartão de Crédito
+694;22/11/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;3;6600.0;5341.94;RJ;Cartão de Crédito
+695;18/09/2024;Luiz;Cadeira Gamer;Móveis;1200.0;9;10800.0;8580.2;RJ;Cartão de Crédito
+696;05/05/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;8;36000.0;26335.4;RJ;Boleto Bancário
+697;28/02/2024;Luiz;Teclado Mecânico;Acessórios;450.0;6;2700.0;3018.44;RJ;PIX
+698;29/05/2024;Atila;Smartphone X;Celulares;3200.0;6;19200.0;15344.76;RJ;Boleto Bancário
+699;23/09/2024;Atila;Mouse Gamer;Acessórios;250.0;1;250.0;206.04;RJ;Boleto Bancário
+700;21/07/2024;Atila;Notebook Pro;Eletrônicos;4500.0;9;40500.0;33580.91;MG;Boleto Bancário
+701;26/03/2024;Jessica;Teclado Mecânico;Acessórios;450.0;2;900.0;816.21;MG;Cartão de Crédito
+702;21/06/2024;Luiz;Webcam 4K;Eletrônicos;800.0;7;5600.0;7036.65;MG;Boleto Bancário
+703;21/08/2024;Luiz;Smartphone X;Celulares;3200.0;3;9600.0;12096.75;MG;Cartão de Crédito
+704;25/10/2024;Atila;Notebook Pro;Eletrônicos;4500.0;10;45000.0;39626.21;MG;Cartão de Crédito
+705;15/10/2024;Paulo;Webcam 4K;Eletrônicos;800.0;5;4000.0;2851.84;MG;PIX
+706;24/08/2024;Atila;Notebook Pro;Eletrônicos;4500.0;9;40500.0;50991.93;MG;Cartão de Crédito
+707;29/10/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;9;19800.0;17817.06;MG;Cartão de Crédito
+708;17/08/2024;Jessica;Webcam 4K;Eletrônicos;800.0;4;3200.0;4242.93;MG;Cartão de Crédito
+709;02/02/2024;Luiz;SSD 1TB;Acessórios;500.0;10;5000.0;6504.99;MG;Cartão de Débito
+710;10/12/2024;Luiz;Mouse Gamer;Acessórios;250.0;10;2500.0;2097.07;MG;Cartão de Crédito
+711;25/07/2024;Atila;Mouse Gamer;Acessórios;250.0;2;500.0;464.59;MG;Boleto Bancário
+712;17/05/2024;Jessica;SSD 1TB;Acessórios;500.0;1;500.0;461.37;MG;PIX
+713;07/02/2024;Luiz;SSD 1TB;Acessórios;500.0;4;2000.0;2325.59;MG;Cartão de Débito
+714;29/08/2024;Paulo;Smartphone X;Celulares;3200.0;4;12800.0;15536.91;MG;Cartão de Crédito
+715;12/05/2024;Paulo;Teclado Mecânico;Acessórios;450.0;10;4500.0;3288.1;MG;Cartão de Débito
+716;12/01/2024;Paulo;Headset Pro;Acessórios;600.0;7;4200.0;2998.39;MG;PIX
+717;27/09/2024;Atila;SSD 1TB;Acessórios;500.0;5;2500.0;1904.2;MG;Cartão de Crédito
+718;06/07/2024;Jessica;Smartphone X;Celulares;3200.0;8;25600.0;23555.29;MG;Cartão de Débito
+719;13/12/2024;Jessica;SSD 1TB;Acessórios;500.0;4;2000.0;1615.64;MG;Cartão de Débito
+720;08/02/2024;Jessica;SSD 1TB;Acessórios;500.0;4;2000.0;2790.66;MG;Cartão de Crédito
+721;06/03/2024;Atila;Webcam 4K;Eletrônicos;800.0;9;7200.0;5982.9;MG;PIX
+722;16/04/2024;Luiz;Webcam 4K;Eletrônicos;800.0;9;7200.0;6516.2;MG;PIX
+723;09/01/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;9;19800.0;17827.77;MG;Boleto Bancário
+724;17/09/2024;Jessica;Teclado Mecânico;Acessórios;450.0;6;2700.0;2043.99;MG;PIX
+725;16/02/2024;Paulo;Teclado Mecânico;Acessórios;450.0;2;900.0;1208.85;MG;PIX
+726;06/11/2024;Luiz;Webcam 4K;Eletrônicos;800.0;4;3200.0;2244.91;MG;PIX
+727;14/06/2024;Luiz;Headset Pro;Acessórios;600.0;4;2400.0;2817.98;MG;PIX
+728;25/12/2024;Luiz;Headset Pro;Acessórios;600.0;8;4800.0;3882.71;MG;Cartão de Crédito
+729;08/03/2024;Luiz;Headset Pro;Acessórios;600.0;2;1200.0;943.65;MG;Cartão de Crédito
+730;16/09/2024;Atila;Teclado Mecânico;Acessórios;450.0;2;900.0;747.41;ES;Cartão de Crédito
+731;18/05/2024;Atila;Notebook Pro;Eletrônicos;4500.0;3;13500.0;9724.2;ES;Boleto Bancário
+732;01/10/2024;Jessica;Webcam 4K;Eletrônicos;800.0;8;6400.0;5399.4;ES;PIX
+733;31/08/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;3;13500.0;16260.43;ES;PIX
+734;19/08/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;6;13200.0;18108.44;ES;Boleto Bancário
+735;06/12/2024;Atila;Mouse Gamer;Acessórios;250.0;4;1000.0;800.59;ES;PIX
+736;27/08/2024;Jessica;SSD 1TB;Acessórios;500.0;1;500.0;663.38;ES;PIX
+737;27/11/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;1;4500.0;3399.9;ES;Cartão de Crédito
+738;06/04/2024;Jessica;Teclado Mecânico;Acessórios;450.0;2;900.0;789.11;ES;Cartão de Crédito
+739;11/12/2024;Atila;Teclado Mecânico;Acessórios;450.0;1;450.0;386.86;ES;PIX
+740;01/09/2024;Luiz;Headset Pro;Acessórios;600.0;5;3000.0;2282.89;ES;Cartão de Débito
+741;07/04/2024;Jessica;Webcam 4K;Eletrônicos;800.0;1;800.0;658.58;ES;Cartão de Débito
+742;06/12/2024;Atila;SSD 1TB;Acessórios;500.0;1;500.0;353.89;ES;Boleto Bancário
+743;04/05/2024;Paulo;Smartphone X;Celulares;3200.0;10;32000.0;29041.48;ES;Cartão de Crédito
+744;28/03/2024;Paulo;SSD 1TB;Acessórios;500.0;3;1500.0;1178.03;ES;PIX
+745;24/09/2024;Paulo;Webcam 4K;Eletrônicos;800.0;2;1600.0;1203.42;ES;Cartão de Crédito
+746;21/10/2024;Paulo;Mouse Gamer;Acessórios;250.0;3;750.0;709.15;ES;PIX
+747;29/11/2024;Atila;Teclado Mecânico;Acessórios;450.0;7;3150.0;2511.23;ES;PIX
+748;16/10/2024;Jessica;Smartphone X;Celulares;3200.0;3;9600.0;8321.44;ES;Cartão de Débito
+749;06/07/2024;Jessica;SSD 1TB;Acessórios;500.0;6;3000.0;2227.84;ES;Cartão de Débito
+750;03/08/2024;Paulo;Smartphone X;Celulares;3200.0;8;25600.0;30923.46;PR;Cartão de Débito
+751;25/08/2024;Atila;Cadeira Gamer;Móveis;1200.0;2;2400.0;2934.1;PR;Cartão de Crédito
+752;23/07/2024;Luiz;Mouse Gamer;Acessórios;250.0;10;2500.0;2363.45;PR;Boleto Bancário
+753;06/09/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;4;8800.0;7309.22;PR;Boleto Bancário
+754;20/09/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;5;11000.0;10217.5;PR;Cartão de Débito
+755;15/11/2024;Atila;Notebook Pro;Eletrônicos;4500.0;8;36000.0;29460.94;PR;Cartão de Débito
+756;08/06/2024;Jessica;Mouse Gamer;Acessórios;250.0;10;2500.0;3225.49;PR;Boleto Bancário
+757;18/07/2024;Paulo;Webcam 4K;Eletrônicos;800.0;9;7200.0;6577.54;PR;Cartão de Crédito
+758;11/01/2024;Paulo;Teclado Mecânico;Acessórios;450.0;4;1800.0;1324.33;PR;PIX
+759;13/07/2024;Paulo;Headset Pro;Acessórios;600.0;2;1200.0;927.25;PR;Boleto Bancário
+760;15/09/2024;Jessica;Webcam 4K;Eletrônicos;800.0;3;2400.0;1693.86;PR;Cartão de Crédito
+761;09/06/2024;Luiz;Headset Pro;Acessórios;600.0;1;600.0;651.6;PR;Cartão de Débito
+762;04/08/2024;Atila;Notebook Pro;Eletrônicos;4500.0;3;13500.0;15197.16;PR;Cartão de Crédito
+763;03/02/2024;Luiz;Teclado Mecânico;Acessórios;450.0;6;2700.0;2897.4;PR;Cartão de Crédito
+764;21/12/2024;Jessica;SSD 1TB;Acessórios;500.0;6;3000.0;2147.48;PR;Boleto Bancário
+765;21/11/2024;Atila;Notebook Pro;Eletrônicos;4500.0;6;27000.0;25063.86;PR;Cartão de Débito
+766;15/09/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;9;19800.0;14300.74;PR;Cartão de Crédito
+767;20/07/2024;Atila;Headset Pro;Acessórios;600.0;5;3000.0;2116.67;PR;Cartão de Débito
+768;14/06/2024;Luiz;Webcam 4K;Eletrônicos;800.0;6;4800.0;5313.98;PR;Cartão de Débito
+769;27/11/2024;Paulo;Teclado Mecânico;Acessórios;450.0;4;1800.0;1311.26;PR;Cartão de Débito
+770;20/03/2024;Atila;SSD 1TB;Acessórios;500.0;1;500.0;393.19;RS;Boleto Bancário
+771;04/02/2024;Atila;Webcam 4K;Eletrônicos;800.0;7;5600.0;6928.57;RS;Boleto Bancário
+772;30/10/2024;Paulo;Cadeira Gamer;Móveis;1200.0;7;8400.0;7217.58;RS;Boleto Bancário
+773;05/05/2024;Luiz;Cadeira Gamer;Móveis;1200.0;9;10800.0;9737.45;RS;Cartão de Crédito
+774;23/12/2024;Luiz;Smartphone X;Celulares;3200.0;5;16000.0;14172.64;RS;Boleto Bancário
+775;11/12/2024;Atila;Webcam 4K;Eletrônicos;800.0;1;800.0;587.9;RS;Boleto Bancário
+776;08/08/2024;Paulo;Mouse Gamer;Acessórios;250.0;8;2000.0;2275.86;RS;Cartão de Crédito
+777;27/06/2024;Luiz;SSD 1TB;Acessórios;500.0;3;1500.0;1665.69;RS;Cartão de Débito
+778;20/10/2024;Paulo;Cadeira Gamer;Móveis;1200.0;2;2400.0;1790.45;RS;PIX
+779;24/04/2024;Paulo;SSD 1TB;Acessórios;500.0;6;3000.0;2549.37;RS;Boleto Bancário
+780;18/12/2024;Jessica;SSD 1TB;Acessórios;500.0;7;3500.0;2641.87;RS;Cartão de Crédito
+781;05/06/2024;Jessica;Cadeira Gamer;Móveis;1200.0;9;10800.0;14786.13;RS;Cartão de Crédito
+782;26/01/2024;Luiz;Cadeira Gamer;Móveis;1200.0;6;7200.0;5707.12;RS;Boleto Bancário
+783;11/07/2024;Luiz;Smartphone X;Celulares;3200.0;6;19200.0;14639.99;RS;PIX
+784;28/09/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;6;13200.0;9291.14;RS;Cartão de Débito
+785;29/07/2024;Luiz;Webcam 4K;Eletrônicos;800.0;7;5600.0;4783.05;RS;Cartão de Crédito
+786;17/05/2024;Luiz;Teclado Mecânico;Acessórios;450.0;2;900.0;684.51;RS;Cartão de Crédito
+787;22/07/2024;Jessica;Smartphone X;Celulares;3200.0;7;22400.0;18111.09;RS;Boleto Bancário
+788;15/03/2024;Paulo;Cadeira Gamer;Móveis;1200.0;5;6000.0;4366.72;RS;Cartão de Débito
+789;28/03/2024;Luiz;Webcam 4K;Eletrônicos;800.0;4;3200.0;2392.43;RS;Boleto Bancário
+790;01/12/2024;Atila;Mouse Gamer;Acessórios;250.0;1;250.0;189.35;SC;Boleto Bancário
+791;04/03/2024;Atila;Notebook Pro;Eletrônicos;4500.0;5;22500.0;17665.5;SC;Cartão de Crédito
+792;05/05/2024;Atila;Mouse Gamer;Acessórios;250.0;4;1000.0;906.93;SC;Cartão de Crédito
+793;04/04/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;10;45000.0;34543.02;SC;PIX
+794;25/06/2024;Luiz;Smartphone X;Celulares;3200.0;8;25600.0;29541.2;SC;PIX
+795;13/02/2024;Luiz;Webcam 4K;Eletrônicos;800.0;1;800.0;937.76;SC;Cartão de Débito
+796;09/04/2024;Paulo;Teclado Mecânico;Acessórios;450.0;5;2250.0;2033.46;SC;Cartão de Crédito
+797;09/03/2024;Paulo;Smartphone X;Celulares;3200.0;2;6400.0;5078.37;SC;Cartão de Crédito
+798;16/02/2024;Atila;SSD 1TB;Acessórios;500.0;5;2500.0;2910.83;SC;Cartão de Crédito
+799;06/04/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;4;8800.0;6997.13;SC;Cartão de Débito
+800;09/08/2024;Atila;Monitor 4K;Eletrônicos;2200.0;7;15400.0;18996.22;SC;Cartão de Crédito
+801;29/02/2024;Jessica;Mouse Gamer;Acessórios;250.0;8;2000.0;2590.62;SC;PIX
+802;17/08/2024;Jessica;Mouse Gamer;Acessórios;250.0;6;1500.0;1978.71;SC;Cartão de Crédito
+803;08/01/2024;Atila;Cadeira Gamer;Móveis;1200.0;1;1200.0;888.18;SC;Boleto Bancário
+804;30/06/2024;Paulo;SSD 1TB;Acessórios;500.0;10;5000.0;5661.22;SC;PIX
+805;31/08/2024;Jessica;Webcam 4K;Eletrônicos;800.0;2;1600.0;1966.63;SC;Cartão de Crédito
+806;25/06/2024;Atila;Smartphone X;Celulares;3200.0;9;28800.0;35706.74;SC;Boleto Bancário
+807;15/01/2024;Paulo;Cadeira Gamer;Móveis;1200.0;5;6000.0;5107.54;SC;Cartão de Débito
+808;17/09/2024;Jessica;Smartphone X;Celulares;3200.0;10;32000.0;23988.07;SC;Boleto Bancário
+809;17/11/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;2;9000.0;6717.97;SC;PIX
+810;09/09/2024;Atila;Monitor 4K;Eletrônicos;2200.0;8;17600.0;15531.8;DF;Cartão de Débito
+811;07/09/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;8;17600.0;15287.25;DF;Cartão de Débito
+812;11/08/2024;Atila;Webcam 4K;Eletrônicos;800.0;2;1600.0;1868.44;DF;Cartão de Débito
+813;15/07/2024;Atila;Notebook Pro;Eletrônicos;4500.0;3;13500.0;10867.73;DF;Cartão de Débito
+814;30/11/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;3;6600.0;4818.19;DF;Cartão de Crédito
+815;27/01/2024;Luiz;Cadeira Gamer;Móveis;1200.0;1;1200.0;976.37;DF;Cartão de Crédito
+816;23/12/2024;Jessica;Mouse Gamer;Acessórios;250.0;9;2250.0;1716.47;DF;Cartão de Crédito
+817;06/06/2024;Luiz;Webcam 4K;Eletrônicos;800.0;4;3200.0;3518.48;DF;PIX
+818;21/07/2024;Atila;Webcam 4K;Eletrônicos;800.0;5;4000.0;2953.18;DF;Cartão de Crédito
+819;30/10/2024;Paulo;Teclado Mecânico;Acessórios;450.0;8;3600.0;3144.1;DF;Cartão de Débito
+820;26/12/2024;Paulo;Teclado Mecânico;Acessórios;450.0;1;450.0;328.02;DF;PIX
+821;15/04/2024;Jessica;Headset Pro;Acessórios;600.0;6;3600.0;2925.89;DF;Cartão de Crédito
+822;26/02/2024;Atila;Cadeira Gamer;Móveis;1200.0;5;6000.0;6543.31;DF;Cartão de Crédito
+823;19/09/2024;Atila;Monitor 4K;Eletrônicos;2200.0;10;22000.0;15671.44;DF;Boleto Bancário
+824;01/09/2024;Luiz;Mouse Gamer;Acessórios;250.0;2;500.0;431.11;DF;Cartão de Crédito
+825;23/09/2024;Luiz;Mouse Gamer;Acessórios;250.0;3;750.0;681.86;DF;Boleto Bancário
+826;23/02/2024;Luiz;Webcam 4K;Eletrônicos;800.0;10;8000.0;10326.05;DF;PIX
+827;05/06/2024;Paulo;SSD 1TB;Acessórios;500.0;5;2500.0;3339.98;DF;PIX
+828;27/01/2024;Atila;SSD 1TB;Acessórios;500.0;5;2500.0;1902.26;DF;Cartão de Crédito
+829;19/01/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;6;13200.0;12125.19;DF;Cartão de Crédito
+830;07/07/2024;Jessica;Webcam 4K;Eletrônicos;800.0;6;4800.0;3815.51;DF;PIX
+831;20/08/2024;Jessica;Headset Pro;Acessórios;600.0;5;3000.0;3860.86;DF;Cartão de Débito
+832;03/08/2024;Jessica;Webcam 4K;Eletrônicos;800.0;2;1600.0;1698.46;DF;PIX
+833;23/06/2024;Luiz;Teclado Mecânico;Acessórios;450.0;2;900.0;951.42;DF;PIX
+834;03/07/2024;Atila;Webcam 4K;Eletrônicos;800.0;7;5600.0;4703.71;DF;Cartão de Crédito
+835;05/12/2024;Atila;Headset Pro;Acessórios;600.0;10;6000.0;4406.72;DF;Boleto Bancário
+836;26/11/2024;Atila;Cadeira Gamer;Móveis;1200.0;2;2400.0;1894.9;DF;Boleto Bancário
+837;17/10/2024;Paulo;Cadeira Gamer;Móveis;1200.0;5;6000.0;5488.06;DF;Boleto Bancário
+838;14/11/2024;Paulo;Webcam 4K;Eletrônicos;800.0;8;6400.0;5329.16;DF;Cartão de Débito
+839;07/10/2024;Luiz;Webcam 4K;Eletrônicos;800.0;8;6400.0;4932.13;DF;PIX
+840;28/03/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;2;9000.0;8346.43;DF;Cartão de Crédito
+841;18/07/2024;Jessica;Cadeira Gamer;Móveis;1200.0;8;9600.0;9070.05;DF;PIX
+842;17/06/2024;Paulo;SSD 1TB;Acessórios;500.0;2;1000.0;1229.72;DF;Cartão de Débito
+843;13/09/2024;Jessica;Mouse Gamer;Acessórios;250.0;8;2000.0;1793.33;DF;PIX
+844;24/04/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;7;15400.0;12908.83;DF;PIX
+845;12/09/2024;Paulo;Smartphone X;Celulares;3200.0;2;6400.0;4809.96;DF;Cartão de Crédito
+846;11/06/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;4;18000.0;23670.47;DF;Boleto Bancário
+847;16/10/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;8;17600.0;13926.28;DF;Cartão de Crédito
+848;04/07/2024;Luiz;Cadeira Gamer;Móveis;1200.0;9;10800.0;8466.47;DF;Cartão de Crédito
+849;19/10/2024;Luiz;Smartphone X;Celulares;3200.0;9;28800.0;20284.15;DF;Boleto Bancário
+850;07/09/2024;Atila;Headset Pro;Acessórios;600.0;1;600.0;564.71;DF;Cartão de Crédito
+851;22/09/2024;Atila;SSD 1TB;Acessórios;500.0;6;3000.0;2775.57;DF;Boleto Bancário
+852;06/08/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;3;6600.0;8754.36;DF;Cartão de Débito
+853;13/05/2024;Luiz;SSD 1TB;Acessórios;500.0;4;2000.0;1647.46;DF;PIX
+854;07/08/2024;Atila;Teclado Mecânico;Acessórios;450.0;7;3150.0;3493.07;DF;Cartão de Crédito
+855;02/08/2024;Luiz;Headset Pro;Acessórios;600.0;10;6000.0;8025.5;DF;Cartão de Débito
+856;02/09/2024;Atila;SSD 1TB;Acessórios;500.0;5;2500.0;2062.59;DF;Cartão de Débito
+857;12/12/2024;Paulo;Headset Pro;Acessórios;600.0;5;3000.0;2320.88;DF;Boleto Bancário
+858;03/02/2024;Atila;Notebook Pro;Eletrônicos;4500.0;10;45000.0;48497.82;DF;Cartão de Crédito
+859;22/06/2024;Atila;Monitor 4K;Eletrônicos;2200.0;4;8800.0;10053.81;DF;Cartão de Débito
+860;11/12/2024;Paulo;SSD 1TB;Acessórios;500.0;4;2000.0;1768.87;DF;Cartão de Débito
+861;13/11/2024;Luiz;Smartphone X;Celulares;3200.0;2;6400.0;5110.23;DF;PIX
+862;05/07/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;1;4500.0;3806.5;DF;Cartão de Crédito
+863;27/07/2024;Paulo;Smartphone X;Celulares;3200.0;7;22400.0;20991.69;DF;Boleto Bancário
+864;22/04/2024;Luiz;Headset Pro;Acessórios;600.0;8;4800.0;4190.75;DF;PIX
+865;22/05/2024;Paulo;Webcam 4K;Eletrônicos;800.0;5;4000.0;3430.88;DF;Cartão de Débito
+866;04/01/2024;Luiz;Teclado Mecânico;Acessórios;450.0;2;900.0;783.31;DF;PIX
+867;22/07/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;7;31500.0;23691.64;DF;Cartão de Débito
+868;27/05/2024;Luiz;Mouse Gamer;Acessórios;250.0;7;1750.0;1250.93;DF;Boleto Bancário
+869;22/08/2024;Atila;Mouse Gamer;Acessórios;250.0;6;1500.0;1967.57;DF;Cartão de Débito
+870;23/03/2024;Atila;Webcam 4K;Eletrônicos;800.0;10;8000.0;6959.98;MS;Boleto Bancário
+871;02/10/2024;Atila;Teclado Mecânico;Acessórios;450.0;9;4050.0;3222.22;MS;Boleto Bancário
+872;28/06/2024;Luiz;SSD 1TB;Acessórios;500.0;4;2000.0;2384.22;MS;Cartão de Débito
+873;28/04/2024;Jessica;Teclado Mecânico;Acessórios;450.0;7;3150.0;2902.08;MS;Cartão de Débito
+874;04/06/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;10;22000.0;27162.27;MS;Cartão de Débito
+875;11/05/2024;Paulo;Headset Pro;Acessórios;600.0;10;6000.0;5200.42;MS;Cartão de Crédito
+876;09/12/2024;Jessica;Smartphone X;Celulares;3200.0;6;19200.0;15631.52;MS;Cartão de Débito
+877;09/07/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;6;27000.0;22138.43;MS;Cartão de Crédito
+878;08/11/2024;Atila;Smartphone X;Celulares;3200.0;2;6400.0;4695.78;MS;Boleto Bancário
+879;23/05/2024;Jessica;Teclado Mecânico;Acessórios;450.0;5;2250.0;1594.66;MS;Cartão de Crédito
+880;06/06/2024;Atila;Mouse Gamer;Acessórios;250.0;8;2000.0;2757.07;MS;Boleto Bancário
+881;31/03/2024;Paulo;Mouse Gamer;Acessórios;250.0;9;2250.0;1697.02;MS;Boleto Bancário
+882;20/04/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;2;4400.0;3461.17;MS;Cartão de Crédito
+883;08/05/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;2;9000.0;7193.45;MS;Cartão de Crédito
+884;14/04/2024;Atila;Teclado Mecânico;Acessórios;450.0;2;900.0;672.23;MS;Cartão de Débito
+885;28/01/2024;Jessica;Cadeira Gamer;Móveis;1200.0;2;2400.0;1935.65;MT;Cartão de Crédito
+886;21/08/2024;Paulo;Smartphone X;Celulares;3200.0;3;9600.0;13113.0;MT;Cartão de Débito
+887;30/11/2024;Paulo;Headset Pro;Acessórios;600.0;10;6000.0;4627.75;MT;PIX
+888;28/09/2024;Jessica;Headset Pro;Acessórios;600.0;5;3000.0;2276.32;MT;Cartão de Crédito
+889;04/12/2024;Luiz;Teclado Mecânico;Acessórios;450.0;8;3600.0;3123.04;MT;Boleto Bancário
+890;07/02/2024;Paulo;Headset Pro;Acessórios;600.0;6;3600.0;4314.14;MT;PIX
+891;05/06/2024;Atila;Mouse Gamer;Acessórios;250.0;9;2250.0;2836.74;MT;Cartão de Débito
+892;29/08/2024;Jessica;SSD 1TB;Acessórios;500.0;10;5000.0;5259.56;MT;Boleto Bancário
+893;17/10/2024;Luiz;Cadeira Gamer;Móveis;1200.0;1;1200.0;907.17;MT;PIX
+894;26/02/2024;Paulo;Smartphone X;Celulares;3200.0;3;9600.0;11704.66;MT;Cartão de Débito
+895;22/10/2024;Jessica;Teclado Mecânico;Acessórios;450.0;5;2250.0;1807.75;MT;Boleto Bancário
+896;13/09/2024;Luiz;Mouse Gamer;Acessórios;250.0;1;250.0;223.55;MT;Cartão de Débito
+897;16/02/2024;Luiz;Cadeira Gamer;Móveis;1200.0;4;4800.0;6009.46;MT;PIX
+898;13/05/2024;Atila;SSD 1TB;Acessórios;500.0;10;5000.0;3674.63;MT;Boleto Bancário
+899;03/02/2024;Jessica;SSD 1TB;Acessórios;500.0;1;500.0;558.07;MT;PIX
+900;14/05/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;1;4500.0;4070.66;GO;Cartão de Crédito
+901;23/08/2024;Atila;Cadeira Gamer;Móveis;1200.0;4;4800.0;5363.5;GO;Cartão de Crédito
+902;01/10/2024;Luiz;Webcam 4K;Eletrônicos;800.0;9;7200.0;6382.6;GO;Boleto Bancário
+903;27/04/2024;Jessica;Webcam 4K;Eletrônicos;800.0;5;4000.0;3086.5;GO;Boleto Bancário
+904;08/10/2024;Atila;Monitor 4K;Eletrônicos;2200.0;8;17600.0;14228.45;GO;PIX
+905;20/07/2024;Atila;SSD 1TB;Acessórios;500.0;3;1500.0;1363.21;GO;Cartão de Crédito
+906;27/11/2024;Luiz;Webcam 4K;Eletrônicos;800.0;5;4000.0;3527.01;GO;Cartão de Crédito
+907;26/09/2024;Luiz;Mouse Gamer;Acessórios;250.0;9;2250.0;1875.4;GO;Boleto Bancário
+908;05/12/2024;Paulo;SSD 1TB;Acessórios;500.0;7;3500.0;3265.73;GO;Cartão de Débito
+909;07/05/2024;Atila;Teclado Mecânico;Acessórios;450.0;3;1350.0;1032.93;GO;Cartão de Crédito
+910;03/04/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;5;22500.0;17352.88;GO;Cartão de Débito
+911;06/02/2024;Atila;Headset Pro;Acessórios;600.0;2;1200.0;1679.79;GO;PIX
+912;11/05/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;2;4400.0;3096.04;GO;Cartão de Crédito
+913;20/02/2024;Paulo;Cadeira Gamer;Móveis;1200.0;1;1200.0;1451.0;GO;PIX
+914;02/09/2024;Paulo;Monitor 4K;Eletrônicos;2200.0;1;2200.0;1766.25;GO;PIX
+915;22/06/2024;Luiz;Mouse Gamer;Acessórios;250.0;6;1500.0;1760.35;GO;Cartão de Crédito
+916;29/08/2024;Atila;Cadeira Gamer;Móveis;1200.0;2;2400.0;3071.68;GO;PIX
+917;03/04/2024;Paulo;Mouse Gamer;Acessórios;250.0;5;1250.0;900.3;GO;Boleto Bancário
+918;05/02/2024;Luiz;Smartphone X;Celulares;3200.0;4;12800.0;14310.42;GO;PIX
+919;19/09/2024;Jessica;Headset Pro;Acessórios;600.0;1;600.0;479.73;GO;Cartão de Crédito
+920;17/04/2024;Atila;Mouse Gamer;Acessórios;250.0;4;1000.0;796.67;SE;PIX
+921;08/06/2024;Paulo;Webcam 4K;Eletrônicos;800.0;3;2400.0;3084.27;SE;Boleto Bancário
+922;24/05/2024;Atila;Monitor 4K;Eletrônicos;2200.0;10;22000.0;18280.79;SE;Cartão de Crédito
+923;28/01/2024;Jessica;Teclado Mecânico;Acessórios;450.0;5;2250.0;1969.32;SE;Cartão de Débito
+924;17/02/2024;Jessica;SSD 1TB;Acessórios;500.0;6;3000.0;3521.3;SE;Cartão de Débito
+925;03/11/2024;Jessica;Teclado Mecânico;Acessórios;450.0;7;3150.0;2354.26;SE;Cartão de Débito
+926;15/12/2024;Paulo;Smartphone X;Celulares;3200.0;5;16000.0;13424.98;SE;PIX
+927;27/07/2024;Jessica;Cadeira Gamer;Móveis;1200.0;8;9600.0;7930.94;SE;Cartão de Crédito
+928;16/04/2024;Paulo;SSD 1TB;Acessórios;500.0;6;3000.0;2457.91;SE;Cartão de Débito
+929;07/12/2024;Atila;Webcam 4K;Eletrônicos;800.0;6;4800.0;3715.63;SE;Cartão de Débito
+930;20/06/2024;Luiz;Mouse Gamer;Acessórios;250.0;3;750.0;1012.81;RN;Cartão de Débito
+931;28/04/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;2;9000.0;6923.31;RN;Cartão de Débito
+932;10/02/2024;Atila;Teclado Mecânico;Acessórios;450.0;5;2250.0;2420.91;RN;Cartão de Débito
+933;25/01/2024;Luiz;Cadeira Gamer;Móveis;1200.0;4;4800.0;3872.46;RN;Cartão de Crédito
+934;29/05/2024;Atila;Webcam 4K;Eletrônicos;800.0;9;7200.0;6509.77;RN;Boleto Bancário
+935;25/03/2024;Jessica;Mouse Gamer;Acessórios;250.0;10;2500.0;2083.01;RN;PIX
+936;18/01/2024;Atila;SSD 1TB;Acessórios;500.0;9;4500.0;3989.05;RN;Boleto Bancário
+937;03/10/2024;Atila;Teclado Mecânico;Acessórios;450.0;10;4500.0;3619.77;RN;PIX
+938;29/08/2024;Atila;Notebook Pro;Eletrônicos;4500.0;7;31500.0;38438.41;RN;Cartão de Crédito
+939;21/11/2024;Luiz;Cadeira Gamer;Móveis;1200.0;4;4800.0;3401.29;RN;Cartão de Débito
+940;14/01/2024;Jessica;Teclado Mecânico;Acessórios;450.0;9;4050.0;3278.32;PI;PIX
+941;27/05/2024;Atila;Headset Pro;Acessórios;600.0;4;2400.0;1989.4;PI;Cartão de Débito
+942;24/09/2024;Jessica;Headset Pro;Acessórios;600.0;10;6000.0;5665.31;PI;Cartão de Crédito
+943;13/02/2024;Luiz;Webcam 4K;Eletrônicos;800.0;7;5600.0;5888.86;PI;Cartão de Débito
+944;09/06/2024;Luiz;Monitor 4K;Eletrônicos;2200.0;8;17600.0;18963.48;PI;Cartão de Crédito
+945;22/09/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;9;40500.0;30171.37;PI;Cartão de Crédito
+946;05/07/2024;Luiz;SSD 1TB;Acessórios;500.0;2;1000.0;899.4;PI;Cartão de Crédito
+947;24/05/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;5;22500.0;19318.48;PI;Boleto Bancário
+948;11/08/2024;Atila;Mouse Gamer;Acessórios;250.0;2;500.0;690.24;PI;Cartão de Crédito
+949;16/08/2024;Jessica;Monitor 4K;Eletrônicos;2200.0;2;4400.0;5140.64;PI;Cartão de Crédito
+950;22/02/2024;Jessica;Notebook Pro;Eletrônicos;4500.0;3;13500.0;14398.21;PE;Boleto Bancário
+951;24/08/2024;Jessica;Smartphone X;Celulares;3200.0;4;12800.0;16942.62;PE;PIX
+952;13/03/2024;Luiz;Smartphone X;Celulares;3200.0;6;19200.0;13766.41;PE;Cartão de Crédito
+953;04/02/2024;Luiz;Cadeira Gamer;Móveis;1200.0;5;6000.0;6791.99;PE;Boleto Bancário
+954;17/01/2024;Jessica;Teclado Mecânico;Acessórios;450.0;7;3150.0;2662.87;PE;Boleto Bancário
+955;26/10/2024;Paulo;Headset Pro;Acessórios;600.0;7;4200.0;3494.22;PE;PIX
+956;07/04/2024;Luiz;Headset Pro;Acessórios;600.0;8;4800.0;3772.15;PE;Boleto Bancário
+957;22/04/2024;Atila;Headset Pro;Acessórios;600.0;7;4200.0;3101.01;PE;Boleto Bancário
+958;16/03/2024;Luiz;Headset Pro;Acessórios;600.0;3;1800.0;1441.53;PE;Boleto Bancário
+959;15/03/2024;Atila;Monitor 4K;Eletrônicos;2200.0;3;6600.0;5678.18;PE;Boleto Bancário
+960;31/07/2024;Jessica;Headset Pro;Acessórios;600.0;1;600.0;501.01;PB;Cartão de Crédito
+961;08/12/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;6;27000.0;22133.43;PB;Cartão de Débito
+962;13/03/2024;Luiz;Smartphone X;Celulares;3200.0;10;32000.0;29356.24;PB;PIX
+963;29/05/2024;Paulo;Teclado Mecânico;Acessórios;450.0;4;1800.0;1474.64;PB;Cartão de Débito
+964;16/01/2024;Atila;Headset Pro;Acessórios;600.0;1;600.0;431.97;PB;Boleto Bancário
+965;03/08/2024;Luiz;Smartphone X;Celulares;3200.0;9;28800.0;38729.84;PB;PIX
+966;04/12/2024;Paulo;Notebook Pro;Eletrônicos;4500.0;1;4500.0;3626.04;PB;PIX
+967;12/01/2024;Paulo;Teclado Mecânico;Acessórios;450.0;10;4500.0;4212.11;PB;PIX
+968;20/01/2024;Jessica;Webcam 4K;Eletrônicos;800.0;9;7200.0;5470.66;PB;Cartão de Débito
+969;29/06/2024;Atila;SSD 1TB;Acessórios;500.0;6;3000.0;3169.81;PB;PIX
+970;31/05/2024;Atila;Mouse Gamer;Acessórios;250.0;4;1000.0;856.87;MA;Cartão de Crédito
+971;18/06/2024;Paulo;Teclado Mecânico;Acessórios;450.0;4;1800.0;2143.31;MA;PIX
+972;07/10/2024;Luiz;Mouse Gamer;Acessórios;250.0;6;1500.0;1159.48;MA;PIX
+973;10/12/2024;Luiz;Webcam 4K;Eletrônicos;800.0;9;7200.0;6494.56;MA;Cartão de Crédito
+974;26/08/2024;Atila;Smartphone X;Celulares;3200.0;4;12800.0;14543.77;MA;PIX
+975;01/09/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;1;4500.0;4260.17;MA;Cartão de Débito
+976;10/09/2024;Atila;Headset Pro;Acessórios;600.0;4;2400.0;1774.99;MA;Cartão de Crédito
+977;19/03/2024;Paulo;Headset Pro;Acessórios;600.0;2;1200.0;1079.46;MA;Cartão de Crédito
+978;01/12/2024;Luiz;Webcam 4K;Eletrônicos;800.0;10;8000.0;5813.78;MA;Cartão de Débito
+979;17/08/2024;Paulo;Cadeira Gamer;Móveis;1200.0;3;3600.0;4372.14;MA;Boleto Bancário
+980;29/11/2024;Jessica;SSD 1TB;Acessórios;500.0;4;2000.0;1867.3;CE;PIX
+981;14/02/2024;Paulo;SSD 1TB;Acessórios;500.0;2;1000.0;1244.79;CE;Boleto Bancário
+982;28/11/2024;Jessica;Mouse Gamer;Acessórios;250.0;3;750.0;703.98;CE;Cartão de Débito
+983;24/08/2024;Atila;Teclado Mecânico;Acessórios;450.0;2;900.0;1056.9;CE;Boleto Bancário
+984;29/06/2024;Paulo;Smartphone X;Celulares;3200.0;7;22400.0;27504.2;CE;Boleto Bancário
+985;09/04/2024;Atila;SSD 1TB;Acessórios;500.0;3;1500.0;1189.07;BA;Boleto Bancário
+986;02/01/2024;Atila;Headset Pro;Acessórios;600.0;5;3000.0;2485.8;BA;PIX
+987;07/08/2024;Jessica;Webcam 4K;Eletrônicos;800.0;7;5600.0;7144.66;BA;Boleto Bancário
+988;11/03/2024;Atila;SSD 1TB;Acessórios;500.0;1;500.0;431.9;BA;Boleto Bancário
+989;19/02/2024;Luiz;Mouse Gamer;Acessórios;250.0;2;500.0;660.91;BA;Cartão de Crédito
+990;22/08/2024;Luiz;Notebook Pro;Eletrônicos;4500.0;1;4500.0;5740.98;AL;Boleto Bancário
+991;22/12/2024;Jessica;Headset Pro;Acessórios;600.0;3;1800.0;1660.86;AL;Cartão de Crédito
+992;15/11/2024;Luiz;Smartphone X;Celulares;3200.0;3;9600.0;6984.79;AL;Cartão de Crédito
+993;15/02/2024;Paulo;SSD 1TB;Acessórios;500.0;1;500.0;593.96;AL;PIX
+994;13/05/2024;Luiz;Teclado Mecânico;Acessórios;450.0;3;1350.0;1202.99;AL;Cartão de Débito
+995;07/11/2024;Luiz;Mouse Gamer;Acessórios;250.0;6;1500.0;1201.36;AM;PIX
+996;13/06/2024;Luiz;Mouse Gamer;Acessórios;250.0;10;2500.0;3444.83;AM;Cartão de Crédito
+997;12/11/2024;Atila;Cadeira Gamer;Móveis;1200.0;10;12000.0;8749.51;AM;Cartão de Débito
+998;09/11/2024;Atila;Teclado Mecânico;Acessórios;450.0;7;3150.0;2245.42;RR;PIX
+999;03/01/2024;Luiz;Mouse Gamer;Acessórios;250.0;9;2250.0;1859.26;RR;Cartão de Crédito
+1000;29/07/2024;Paulo;Webcam 4K;Eletrônicos;800.0;8;6400.0;6068.75;RR;Cartão de Crédito
